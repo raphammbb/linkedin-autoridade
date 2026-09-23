@@ -1,0 +1,57 @@
+    :root {
+      --li-bg: #111318;
+      --li-bg-soft: #1A1D24;
+      --li-accent: #3FA9F5;
+      --li-text: #F5F5F2;
+      --li-text-dim: #9BA3AE;
+      --li-font: 'Inter', ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif;
+    }
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    html, body {
+      width: {{ w }}px;
+      height: {{ h }}px;
+      background: var(--li-bg);
+      font-family: var(--li-font);
+      color: var(--li-text);
+      overflow: hidden;
+    }
+    .frame {
+      width: {{ w }}px;
+      height: {{ h }}px;
+      position: relative;
+      display: flex;
+      flex-direction: column;
+      padding: 88px 76px;
+    }
+    .kicker {
+      font-size: 22px;
+      font-weight: 700;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+      color: var(--li-accent);
+    }
+    .accent-bar {
+      width: 64px;
+      height: 6px;
+      border-radius: 3px;
+      background: var(--li-accent);
+      margin-top: 20px;
+    }
+    .counter {
+      position: absolute;
+      bottom: 64px;
+      right: 76px;
+      font-size: 22px;
+      font-weight: 600;
+      color: var(--li-text-dim);
+      letter-spacing: 0.04em;
+    }
+    .swipe-hint {
+      position: absolute;
+      bottom: 64px;
+      left: 76px;
+      font-size: 22px;
+      font-weight: 600;
+      color: var(--li-text-dim);
+      letter-spacing: 0.02em;
+    }
