@@ -17,3 +17,6 @@ Atualizado a cada lote gerado pela skill `linkedin-autoridade-semanal`.
 | 13/10/2026 | Terça | IA aplicada ao marketing (1) | Texto + imagem | "Gere 50, eu escolho" (9) | rascunho |
 | 14/10/2026 | Quarta | IA aplicada ao marketing (1) | Carrossel PDF | Pipeline auditoria → calendário 30 dias (10) | rascunho |
 | 15/10/2026 | Quinta | Conteúdo & copy (2) | Texto + imagem | Regra pra decidir se um post precisa de imagem (20) | rascunho |
+| 20/10/2026 | Terça | Conteúdo & copy (2) | Texto + imagem | O filtro anti-vício de IA que rodo antes de publicar (21) | rascunho |
+| 21/10/2026 | Quarta | Bastidores MyDNA (3) | Carrossel PDF | Diferença entre escrever pra B2C e pra B2B (31) | rascunho |
+| 22/10/2026 | Quinta | Carreira e aprendizado (4) | Texto + imagem | Onde eu quero chegar e por que documento o processo (40) | rascunho |

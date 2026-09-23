@@ -33,7 +33,7 @@ Formato sugerido é ponto de partida, não regra rígida — pode trocar texto�
 18. O que aprendi analisando por que um carrossel performou e outro não, com o mesmo tema — *texto*
 19. Como decido entre bullets e texto corrido dentro de um slide — *carrossel*
 20. [USADA — semana 42] A regra que uso pra saber quando um post precisa de imagem e quando o texto sozinho já resolve — *texto*
-21. Por que corto travessão em excesso de qualquer copy que passa pela minha mão — inclusive a gerada por IA — *texto*
+21. [USADA — semana 43] Por que corto travessão em excesso de qualquer copy que passa pela minha mão — inclusive a gerada por IA — *texto*
 22. [USADA — semana 39] Como estruturo um gancho pra ele funcionar mesmo antes do "ver mais" — *texto*
 23. A diferença entre CTA genérico e CTA que conversa com a dor real do post — *carrossel*
 24. O checklist que aplico antes de aprovar qualquer copy, minha ou gerada por IA — *carrossel*
@@ -46,7 +46,7 @@ Formato sugerido é ponto de partida, não regra rígida — pode trocar texto�
 28. [USADA — semana 41] Bastidores de Customer Success e Marketing trabalhando juntos — o que muda na forma de escrever — *carrossel*
 29. O que descobri sobre o mercado de RH tech em LATAM trabalhando na MyDNA — *texto*
 30. Como decido o que testar numa campanha de email B2B antes de rodar pra base inteira — *texto*
-31. A diferença entre marketing B2C e B2B que só entendi na prática, não na teoria — *carrossel*
+31. [USADA — semana 43] A diferença entre marketing B2C e B2B que só entendi na prática, não na teoria — *carrossel*
 32. O que aprendi sobre precisão de dado trabalhando com benchmarking salarial — *texto*
 33. Como CS e marketing conversam de verdade quando trabalham perto, sem virar relatório burocrático — *texto*
 34. Um aprendizado sobre o mercado LATAM que mudou como penso conteúdo B2B — *carrossel*
@@ -58,7 +58,7 @@ Formato sugerido é ponto de partida, não regra rígida — pode trocar texto�
 37. Como a faculdade de marketing digital se conecta (ou não) com o que faço no dia a dia — *carrossel*
 38. [USADA — semana 39] A virada de chave que fez eu parar de esconder que tenho 2 anos de experiência — *texto*
 39. O que aprendi construindo um sistema sozinho, sem time técnico, errando bastante pelo caminho — *carrossel*
-40. Onde eu quero chegar profissionalmente e por que decidi documentar o processo em público — *texto*
+40. [USADA — semana 43] Onde eu quero chegar profissionalmente e por que decidi documentar o processo em público — *texto*
 
 ---
 
