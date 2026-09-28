@@ -11,7 +11,7 @@ Formato sugerido é ponto de partida, não regra rígida — pode trocar texto�
 ## Pilar 1 — IA aplicada ao marketing (40%)
 
 1. [USADA — semana 39] Como montei um sistema de skills que gera auditoria de Instagram sozinho, sem eu saber programar — *carrossel*
-2. O processo que uso pra decompor qualquer post ou reels em estrutura replicável antes de criar algo parecido — *texto*
+2. [USADA — semana 44] O processo que uso pra decompor qualquer post ou reels em estrutura replicável antes de criar algo parecido — *texto*
 3. Bastidores: como decido o estilo visual de um carrossel antes de gerar qualquer PNG — *carrossel*
 4. [USADA — semana 40] O dia em que a automação quebrou no meio do fluxo e o que aprendi resolvendo sem saber código — *texto*
 5. Como gero PDF de proposta comercial em segundos sem abrir Word nem imprimir manualmente — *texto*
@@ -30,7 +30,7 @@ Formato sugerido é ponto de partida, não regra rígida — pode trocar texto�
 ## Pilar 2 — Conteúdo & copy (25%)
 
 17. [USADA — semana 40] Antes/depois: como reescrevi um título que caía numa fórmula batida de copy — *carrossel*
-18. O que aprendi analisando por que um carrossel performou e outro não, com o mesmo tema — *texto*
+18. [USADA — semana 44] O que aprendi analisando por que um carrossel performou e outro não, com o mesmo tema — *texto*
 19. Como decido entre bullets e texto corrido dentro de um slide — *carrossel*
 20. [USADA — semana 42] A regra que uso pra saber quando um post precisa de imagem e quando o texto sozinho já resolve — *texto*
 21. [USADA — semana 43] Por que corto travessão em excesso de qualquer copy que passa pela minha mão — inclusive a gerada por IA — *texto*
@@ -49,7 +49,7 @@ Formato sugerido é ponto de partida, não regra rígida — pode trocar texto�
 31. [USADA — semana 43] A diferença entre marketing B2C e B2B que só entendi na prática, não na teoria — *carrossel*
 32. O que aprendi sobre precisão de dado trabalhando com benchmarking salarial — *texto*
 33. Como CS e marketing conversam de verdade quando trabalham perto, sem virar relatório burocrático — *texto*
-34. Um aprendizado sobre o mercado LATAM que mudou como penso conteúdo B2B — *carrossel*
+34. [USADA — semana 44] Um aprendizado sobre o mercado LATAM que mudou como penso conteúdo B2B — *carrossel*
 
 ## Pilar 4 — Carreira e aprendizado em público (15%)
 

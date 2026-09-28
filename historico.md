@@ -20,3 +20,6 @@ Atualizado a cada lote gerado pela skill `linkedin-autoridade-semanal`.
 | 20/10/2026 | Terça | Conteúdo & copy (2) | Texto + imagem | O filtro anti-vício de IA que rodo antes de publicar (21) | rascunho |
 | 21/10/2026 | Quarta | Bastidores MyDNA (3) | Carrossel PDF | Diferença entre escrever pra B2C e pra B2B (31) | rascunho |
 | 22/10/2026 | Quinta | Carreira e aprendizado (4) | Texto + imagem | Onde eu quero chegar e por que documento o processo (40) | rascunho |
+| 27/10/2026 | Terça | IA aplicada ao marketing (1) | Texto + imagem | O processo pra decompor um post/reels antes de replicar (2) | rascunho |
+| 28/10/2026 | Quarta | Conteúdo & copy (2) | Texto + imagem | Por que um carrossel performou e o outro não (18) | rascunho |
+| 29/10/2026 | Quinta | Bastidores MyDNA (3) | Carrossel PDF | Aprendizado de LATAM que mudou como escrevo B2B (34) | rascunho |
