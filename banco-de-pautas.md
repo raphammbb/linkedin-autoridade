@@ -21,8 +21,8 @@ Formato sugerido é ponto de partida, não regra rígida — pode trocar texto�
 9. [USADA — semana 42] A diferença entre pedir "boas ideias" pra uma IA e pedir "gere muitas, eu filtro" — o que mudou no resultado — *texto*
 10. [USADA — semana 42] Como um pipeline transforma uma auditoria de Instagram em calendário de 30 dias automaticamente — *carrossel*
 11. O vício de escrita que uma IA repetia sem eu perceber até eu criar um filtro pra pegar isso — *texto*
-12. Como decido qual tarefa automatizar primeiro num fluxo de marketing — o que vale a pena e o que não vale — *carrossel*
-13. Por que abandonei a automação de publicar direto no Instagram via navegador — e o que fiz no lugar — *texto*
+12. [USADA — semana 45] Como decido qual tarefa automatizar primeiro num fluxo de marketing — o que vale a pena e o que não vale — *carrossel*
+13. [USADA — semana 45] Por que abandonei a automação de publicar direto no Instagram via navegador — e o que fiz no lugar — *texto*
 14. Como testo uma hipótese de conteúdo com dado real antes de pensar em escalar — *carrossel*
 15. Bastidores de como decido entre gerar imagem por IA generativa ou usar só design tipográfico num post — *texto*
 16. O sistema que uso pra nunca repetir tema de conteúdo entre contas diferentes — *texto*
@@ -38,7 +38,7 @@ Formato sugerido é ponto de partida, não regra rígida — pode trocar texto�
 23. A diferença entre CTA genérico e CTA que conversa com a dor real do post — *carrossel*
 24. O checklist que aplico antes de aprovar qualquer copy, minha ou gerada por IA — *carrossel*
 25. Como analiso a estrutura de um carrossel de outro criador sem copiar o conteúdo dele — *texto*
-26. Um erro comum de copy que só percebi depois de revisar dezenas de posts seguidos — *texto*
+26. [USADA — semana 45] Um erro comum de copy que só percebi depois de revisar dezenas de posts seguidos — *texto*
 
 ## Pilar 3 — Bastidores B2B/SaaS · MyDNA (20%)
 

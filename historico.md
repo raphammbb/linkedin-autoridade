@@ -23,3 +23,6 @@ Atualizado a cada lote gerado pela skill `linkedin-autoridade-semanal`.
 | 27/10/2026 | Terça | IA aplicada ao marketing (1) | Texto + imagem | O processo pra decompor um post/reels antes de replicar (2) | rascunho |
 | 28/10/2026 | Quarta | Conteúdo & copy (2) | Texto + imagem | Por que um carrossel performou e o outro não (18) | rascunho |
 | 29/10/2026 | Quinta | Bastidores MyDNA (3) | Carrossel PDF | Aprendizado de LATAM que mudou como escrevo B2B (34) | rascunho |
+| 03/11/2026 | Terça | IA aplicada ao marketing (1) | Texto + imagem | Abandonei a automação de publicar direto no Instagram via navegador (13) | rascunho |
+| 04/11/2026 | Quarta | Conteúdo & copy (2) | Texto + imagem | O erro de copy que só vi revisando dezenas de posts (26) | rascunho |
+| 05/11/2026 | Quinta | IA aplicada ao marketing (1) | Carrossel PDF | O critério pra decidir qual tarefa automatizar primeiro (12) | rascunho |
