@@ -37,7 +37,8 @@ a.row small{display:block;color:var(--mut);margin-top:2px}
 
 
 def secao(texto, titulo):
-    m = re.search(rf"^## {re.escape(titulo)}\s*\n(.*?)(?=^## |\Z)", texto, re.S | re.M)
+    # prefixo: "Texto final" também casa "Texto final (versão X)"; carrossel usa "Legenda (texto do post)"
+    m = re.search(rf"^## {re.escape(titulo)}[^\n]*\n(.*?)(?=^## |\Z)", texto, re.S | re.M)
     return m.group(1).strip() if m else ""
 
 
@@ -55,7 +56,7 @@ def ler_post(md: Path):
         "cab": cab,
         "data": data,
         "tema": pauta.group(1) if pauta else cab,
-        "texto": secao(t, "Texto final"),
+        "texto": secao(t, "Texto final") or secao(t, "Legenda"),
         "comentario": secao(t, "Primeiro comentário sugerido"),
         "visual": visual.group(1) if visual else None,
     }
