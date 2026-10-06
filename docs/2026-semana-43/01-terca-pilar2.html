@@ -1,0 +1,49 @@
+<!doctype html><html lang="pt-BR"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Por que corto travessão em excesso de qualquer copy que passa pela minha mão — inclusive a gerada por IA</title><style>
+:root{--bg:#111318;--card:#1b1e26;--tx:#F5F5F2;--mut:#9aa0ac;--ac:#3FA9F5}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--tx);font-family:Inter,system-ui,sans-serif;line-height:1.55}
+main{max-width:640px;margin:0 auto;padding:20px 16px 80px}
+h1{font-size:22px;line-height:1.25;margin:8px 0 4px}
+.meta{color:var(--mut);font-size:14px;margin-bottom:18px}
+.box{background:var(--card);border-radius:14px;padding:18px;white-space:pre-wrap;font-size:16px}
+.btn{display:block;width:100%;text-align:center;padding:16px;margin-top:12px;border-radius:12px;
+ font-size:17px;font-weight:600;text-decoration:none;border:0;cursor:pointer}
+.p{background:var(--ac);color:#06121c}.s{background:var(--card);color:var(--tx);border:1px solid #2c303b}
+img{width:100%;border-radius:12px;margin-top:14px}
+h2{font-size:15px;color:var(--mut);margin:26px 0 8px;text-transform:uppercase;letter-spacing:.05em}
+a.row{display:block;background:var(--card);border-radius:12px;padding:14px;margin-bottom:10px;color:var(--tx);text-decoration:none}
+a.row small{display:block;color:var(--mut);margin-top:2px}
+.hoje{outline:2px solid var(--ac)}
+</style></head><body><main>
+<a href="../index.html" style="color:var(--mut)">← todos os posts</a>
+<h1>Por que corto travessão em excesso de qualquer copy que passa pela minha mão — inclusive a gerada por IA</h1><div class="meta">Terça, 20/10, 8h–9h</div>
+<h2>1. Copie o texto</h2>
+<div class="box" id="t">Marca grande lançando campanha com o selo &quot;feito por humano&quot; virou estratégia de marketing em 2026. Eu já rodava esse filtro sozinho, sem campanha nenhuma.
+
+Tenho um filtro anti-vício de IA que passo em cima de todo texto que sai da minha mão, inclusive o que a IA ajuda a escrever.
+
+Corto travessão em excesso. Corto a fórmula &quot;não é X, é Y&quot; repetida em toda frase de efeito. Corto abertura genérica tipo &quot;no mundo atual&quot;. Corto gancho manjado tipo &quot;e o resultado foi&quot;.
+
+Não é purismo anti-IA. É que esses vícios ficaram tão comuns que qualquer leitor treinado reconhece de longe, e isso derruba a confiança antes da segunda linha.
+
+O erro não é usar IA pra escrever. É publicar sem revisar o que ela devolveu.
+
+Hoje uso IA em quase todo texto que escrevo. Mas nenhum vai pro ar sem passar por esse filtro antes.
+
+Qual vício de escrita de IA mais te incomoda quando você lê um post?
+
+#copywriting #iamarketing #conteudodigital</div>
+<button class="btn p" id="c">Copiar texto</button>
+<h2>2. Baixe o visual</h2><img src="01-terca-pilar2.png" alt="visual do post"><a class="btn s" href="01-terca-pilar2.png" download>Baixar imagem</a>
+<h2>3. Cole no LinkedIn e publique</h2>
+<a class="btn s" href="https://www.linkedin.com/feed/" target="_blank" rel="noopener">Abrir LinkedIn</a>
+</main><script>
+document.getElementById('c').onclick=async function(){
+ var t=document.getElementById('t').innerText;
+ try{await navigator.clipboard.writeText(t)}catch(x){
+  var r=document.createRange();r.selectNodeContents(document.getElementById('t'));
+  var s=getSelection();s.removeAllRanges();s.addRange(r);document.execCommand('copy')}
+ this.textContent='Copiado ✓';setTimeout(()=>this.textContent='Copiar texto',2000)};
+</script></body></html>

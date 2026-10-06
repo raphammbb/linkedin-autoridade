@@ -1,0 +1,51 @@
+<!doctype html><html lang="pt-BR"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>O processo que uso pra decompor qualquer post ou reels em estrutura replicável antes de criar algo parecido</title><style>
+:root{--bg:#111318;--card:#1b1e26;--tx:#F5F5F2;--mut:#9aa0ac;--ac:#3FA9F5}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--tx);font-family:Inter,system-ui,sans-serif;line-height:1.55}
+main{max-width:640px;margin:0 auto;padding:20px 16px 80px}
+h1{font-size:22px;line-height:1.25;margin:8px 0 4px}
+.meta{color:var(--mut);font-size:14px;margin-bottom:18px}
+.box{background:var(--card);border-radius:14px;padding:18px;white-space:pre-wrap;font-size:16px}
+.btn{display:block;width:100%;text-align:center;padding:16px;margin-top:12px;border-radius:12px;
+ font-size:17px;font-weight:600;text-decoration:none;border:0;cursor:pointer}
+.p{background:var(--ac);color:#06121c}.s{background:var(--card);color:var(--tx);border:1px solid #2c303b}
+img{width:100%;border-radius:12px;margin-top:14px}
+h2{font-size:15px;color:var(--mut);margin:26px 0 8px;text-transform:uppercase;letter-spacing:.05em}
+a.row{display:block;background:var(--card);border-radius:12px;padding:14px;margin-bottom:10px;color:var(--tx);text-decoration:none}
+a.row small{display:block;color:var(--mut);margin-top:2px}
+.hoje{outline:2px solid var(--ac)}
+</style></head><body><main>
+<a href="../index.html" style="color:var(--mut)">← todos os posts</a>
+<h1>O processo que uso pra decompor qualquer post ou reels em estrutura replicável antes de criar algo parecido</h1><div class="meta">Terça, 27/10, 8h–9h</div>
+<h2>1. Copie o texto</h2>
+<div class="box" id="t">Ferramenta de IA virou commodity em 2026. A diferença entre quem usa bem e quem usa mal está no processo antes de abrir o prompt.
+
+Antes de criar qualquer carrossel ou reels parecido com uma referência, eu decomponho a peça original inteira primeiro.
+
+Ambiente, ritmo de edição, tipo de gancho, estrutura de bullet a bullet: cada parte vira uma linha separada antes de eu escrever uma palavra do meu conteúdo.
+
+Sem esse passo, a IA generativa só reescreve a superfície. Troca palavra, mantém o vício, repete a mesma estrutura que já cansou o feed.
+
+Decompor primeiro me mostra qual parte da referência funcionou de verdade. Só essa parte eu reaproveito, com o meu tema.
+
+No começo eu pulava direto pra tela em branco e travava, tentando parecer diferente sem entender por que o original funcionava.
+
+Levou meses pra virar hábito. Hoje é o primeiro passo antes de qualquer peça nova, seja minha ou de um cliente da agência.
+
+Qual conteúdo você já tentou replicar sem entender por que ele funcionava?
+
+#marketingdeconteudo #iamarketing #copywriting</div>
+<button class="btn p" id="c">Copiar texto</button>
+<h2>2. Baixe o visual</h2><img src="01-terca-pilar1.png" alt="visual do post"><a class="btn s" href="01-terca-pilar1.png" download>Baixar imagem</a>
+<h2>3. Cole no LinkedIn e publique</h2>
+<a class="btn s" href="https://www.linkedin.com/feed/" target="_blank" rel="noopener">Abrir LinkedIn</a>
+</main><script>
+document.getElementById('c').onclick=async function(){
+ var t=document.getElementById('t').innerText;
+ try{await navigator.clipboard.writeText(t)}catch(x){
+  var r=document.createRange();r.selectNodeContents(document.getElementById('t'));
+  var s=getSelection();s.removeAllRanges();s.addRange(r);document.execCommand('copy')}
+ this.textContent='Copiado ✓';setTimeout(()=>this.textContent='Copiar texto',2000)};
+</script></body></html>

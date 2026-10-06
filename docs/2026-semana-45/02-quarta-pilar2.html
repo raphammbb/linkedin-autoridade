@@ -1,0 +1,49 @@
+<!doctype html><html lang="pt-BR"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Um erro comum de copy que só percebi depois de revisar dezenas de posts seguidos</title><style>
+:root{--bg:#111318;--card:#1b1e26;--tx:#F5F5F2;--mut:#9aa0ac;--ac:#3FA9F5}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--tx);font-family:Inter,system-ui,sans-serif;line-height:1.55}
+main{max-width:640px;margin:0 auto;padding:20px 16px 80px}
+h1{font-size:22px;line-height:1.25;margin:8px 0 4px}
+.meta{color:var(--mut);font-size:14px;margin-bottom:18px}
+.box{background:var(--card);border-radius:14px;padding:18px;white-space:pre-wrap;font-size:16px}
+.btn{display:block;width:100%;text-align:center;padding:16px;margin-top:12px;border-radius:12px;
+ font-size:17px;font-weight:600;text-decoration:none;border:0;cursor:pointer}
+.p{background:var(--ac);color:#06121c}.s{background:var(--card);color:var(--tx);border:1px solid #2c303b}
+img{width:100%;border-radius:12px;margin-top:14px}
+h2{font-size:15px;color:var(--mut);margin:26px 0 8px;text-transform:uppercase;letter-spacing:.05em}
+a.row{display:block;background:var(--card);border-radius:12px;padding:14px;margin-bottom:10px;color:var(--tx);text-decoration:none}
+a.row small{display:block;color:var(--mut);margin-top:2px}
+.hoje{outline:2px solid var(--ac)}
+</style></head><body><main>
+<a href="../index.html" style="color:var(--mut)">← todos os posts</a>
+<h1>Um erro comum de copy que só percebi depois de revisar dezenas de posts seguidos</h1><div class="meta">Quarta, 04/11, 8h–9h</div>
+<h2>1. Copie o texto</h2>
+<div class="box" id="t">Revisei dezenas de posts seguidos pra entender por que alguns mantinham reach consistente e outros não. Achei um erro de copy que se repetia em quase todos os fracos.
+
+O post terminava sem convite real pra conversa. Fechava com frase de efeito, não com pergunta que alguém realmente respondia.
+
+Em 2026 isso pesa mais do que parece: comentário vale muito mais pro alcance do que curtida. Um post sem gancho pra comentário perde alcance antes de qualquer outro fator.
+
+O erro não estava na ideia do post. Estava no fechamento. Eu escrevia um bom raciocínio e desperdiçava ele numa última linha genérica.
+
+Agora, antes de postar, releio só a última frase. Se ela não pede uma resposta específica, eu reescrevo.
+
+Parece um detalhe pequeno. Mudou a métrica que eu olho primeiro quando analiso um post meu ou de outra pessoa.
+
+Qual foi o último post seu que você fechou sem pensar no comentário que ele ia gerar?
+
+#copywriting #linkedin #marketingdeconteudo</div>
+<button class="btn p" id="c">Copiar texto</button>
+<h2>2. Baixe o visual</h2><img src="02-quarta-pilar2.png" alt="visual do post"><a class="btn s" href="02-quarta-pilar2.png" download>Baixar imagem</a>
+<h2>3. Cole no LinkedIn e publique</h2>
+<a class="btn s" href="https://www.linkedin.com/feed/" target="_blank" rel="noopener">Abrir LinkedIn</a>
+</main><script>
+document.getElementById('c').onclick=async function(){
+ var t=document.getElementById('t').innerText;
+ try{await navigator.clipboard.writeText(t)}catch(x){
+  var r=document.createRange();r.selectNodeContents(document.getElementById('t'));
+  var s=getSelection();s.removeAllRanges();s.addRange(r);document.execCommand('copy')}
+ this.textContent='Copiado ✓';setTimeout(()=>this.textContent='Copiar texto',2000)};
+</script></body></html>

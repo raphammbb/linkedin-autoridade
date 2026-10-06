@@ -1,0 +1,49 @@
+<!doctype html><html lang="pt-BR"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Como estruturo um gancho pra ele funcionar mesmo antes do &#x27;ver mais&#x27;</title><style>
+:root{--bg:#111318;--card:#1b1e26;--tx:#F5F5F2;--mut:#9aa0ac;--ac:#3FA9F5}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--tx);font-family:Inter,system-ui,sans-serif;line-height:1.55}
+main{max-width:640px;margin:0 auto;padding:20px 16px 80px}
+h1{font-size:22px;line-height:1.25;margin:8px 0 4px}
+.meta{color:var(--mut);font-size:14px;margin-bottom:18px}
+.box{background:var(--card);border-radius:14px;padding:18px;white-space:pre-wrap;font-size:16px}
+.btn{display:block;width:100%;text-align:center;padding:16px;margin-top:12px;border-radius:12px;
+ font-size:17px;font-weight:600;text-decoration:none;border:0;cursor:pointer}
+.p{background:var(--ac);color:#06121c}.s{background:var(--card);color:var(--tx);border:1px solid #2c303b}
+img{width:100%;border-radius:12px;margin-top:14px}
+h2{font-size:15px;color:var(--mut);margin:26px 0 8px;text-transform:uppercase;letter-spacing:.05em}
+a.row{display:block;background:var(--card);border-radius:12px;padding:14px;margin-bottom:10px;color:var(--tx);text-decoration:none}
+a.row small{display:block;color:var(--mut);margin-top:2px}
+.hoje{outline:2px solid var(--ac)}
+</style></head><body><main>
+<a href="../index.html" style="color:var(--mut)">← todos os posts</a>
+<h1>Como estruturo um gancho pra ele funcionar mesmo antes do &#x27;ver mais&#x27;</h1><div class="meta">Quinta, 24/09, 8h–9h</div>
+<h2>1. Copie o texto</h2>
+<div class="box" id="t">LinkedIn mudou o algoritmo esse ano. Prioriza profundidade — comentário e tempo de leitura pesam mais que curtida rápida.
+
+Isso muda a forma de escrever o começo de um post. Não adianta gancho que só gera concordância automática, tipo &quot;quem concorda deixa uma reação&quot;. Isso engaja rápido e morre rápido.
+
+O gancho que eu tento escrever agora tem que fazer sentido sozinho, sem o resto do post, e ainda deixar uma pergunta aberta — algo que a pessoa só resolve lendo até o final ou comentando.
+
+Um teste simples que uso: leio só as 2 primeiras linhas e pergunto — isso faria alguém parar de rolar o feed, mesmo sem saber o que vem depois?
+
+Se a resposta for &quot;só se completar a frase&quot;, eu reescrevo.
+
+Repito esse teste em cada rascunho, até o gancho aguentar ficar sozinho — sem fórmula fixa.
+
+Qual foi o último post que te fez parar de rolar o feed?
+
+#copywriting #linkedintips #conteudodigital</div>
+<button class="btn p" id="c">Copiar texto</button>
+<h2>2. Baixe o visual</h2><img src="03-quinta-pilar2.png" alt="visual do post"><a class="btn s" href="03-quinta-pilar2.png" download>Baixar imagem</a>
+<h2>3. Cole no LinkedIn e publique</h2>
+<a class="btn s" href="https://www.linkedin.com/feed/" target="_blank" rel="noopener">Abrir LinkedIn</a>
+</main><script>
+document.getElementById('c').onclick=async function(){
+ var t=document.getElementById('t').innerText;
+ try{await navigator.clipboard.writeText(t)}catch(x){
+  var r=document.createRange();r.selectNodeContents(document.getElementById('t'));
+  var s=getSelection();s.removeAllRanges();s.addRange(r);document.execCommand('copy')}
+ this.textContent='Copiado ✓';setTimeout(()=>this.textContent='Copiar texto',2000)};
+</script></body></html>
