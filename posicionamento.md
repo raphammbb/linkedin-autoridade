@@ -16,7 +16,15 @@ Vagas-alvo: Marketing + IA/Automação, e Marketing de Conteúdo/Social.
 
 **Nunca:** guru, "especialista com 10 anos", autoridade forçada.
 
-**Sempre:** 2 anos de experiência prática tratados como força — aprende rápido, constrói coisas de verdade. Isso não é algo a esconder ou compensar, é o próprio argumento.
+**Sempre:** 4 anos de experiência prática (valor oficial do Rapha, 06/10/2026) tratados como força — aprende rápido, constrói coisas de verdade. Isso não é algo a esconder ou compensar, é o próprio argumento. Nunca escrever "2 anos".
+
+## Decisões de 06/10/2026 (após auditoria do perfil)
+
+- **Posicionamento mantido** (conteúdo + IA na prática). Não migrar pra "aquisição B2B / HR Tech LATAM".
+- **Agência Logos pode ser citada pelo nome** como prova de execução (negócio próprio, gestão de Instagram de clientes, auditorias, sistemas com IA). A identidade visual continua separada (nunca `#0C0B14`/`#5B3FF8`). Nunca citar nome de cliente da Logos sem autorização.
+- **Números internos da MyDNA continuam vetados** (mesmo aproximados ou em faixa).
+- **Sem posts em espanhol** — tudo em português.
+- **Frequência mantida: 3 posts/semana** (terça, quarta, quinta).
 
 ## Pilares de conteúdo (proporção mensal)
 
@@ -71,7 +79,7 @@ Se corrigir algo, reportar de forma compacta (o que mudou). Se não houve nada a
 
 - Citar dado, resultado, cliente ou número interno da MyDNA.
 - Publicar direto — o fluxo sempre passa por revisão do Rapha antes de agendar.
-- Misturar o tom/identidade visual com a Agência Logos.
+- Misturar o tom/identidade visual com a Agência Logos (citar a Logos pelo nome como prova de execução é permitido; ver "Decisões de 06/10/2026").
 - Repetir tema já usado (checar `historico.md` antes de fechar a pauta).
 - Forçar tendência de mercado como tema autônomo — ela é gancho, não pauta.
 

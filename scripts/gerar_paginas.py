@@ -94,6 +94,46 @@ document.getElementById('c').onclick=async function(){{
 </script></body></html>"""
 
 
+def pagina_perfil():
+    """perfil/quick-wins.md -> docs/perfil.html (cada bloco ``` vira caixa com botão Copiar)."""
+    fonte = RAIZ / "perfil" / "quick-wins.md"
+    if not fonte.exists():
+        return False
+    e = html.escape
+    titulo = "Kit do perfil"
+    partes = []
+    n = 0
+    for sec in re.split(r"^## ", fonte.read_text(encoding="utf-8"), flags=re.M)[1:]:
+        cab, _, corpo = sec.partition("\n")
+        partes.append(f"<h2>{e(cab)}</h2>")
+        for i, bloco in enumerate(re.split(r"```\n(.*?)```", corpo, flags=re.S)):
+            if i % 2:
+                n += 1
+                partes.append(
+                    f'<div class="box" id="b{n}">{e(bloco.strip())}</div>'
+                    f'<button class="btn p" data-b="b{n}">Copiar</button>'
+                )
+            elif bloco.strip():
+                txt = re.sub(r"`([^`]+)`", r"<code>\1</code>", e(bloco.strip()))
+                partes.append(f'<p style="white-space:pre-wrap">{txt}</p>')
+    (DOCS / "perfil.html").write_text(
+        f"""<!doctype html><html lang="pt-BR"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>{titulo}</title><style>{CSS}code{{background:var(--card);padding:1px 5px;border-radius:5px}}</style></head><body><main>
+<a href="index.html" style="color:var(--mut)">← posts</a>
+<h1>{titulo}</h1><div class="meta">Textos prontos para colar no LinkedIn. [CONFIRMAR] e [PREENCHER] são lacunas suas.</div>
+{''.join(partes)}</main><script>
+document.querySelectorAll('button[data-b]').forEach(function(b){{b.onclick=async function(){{
+ var el=document.getElementById(b.dataset.b),t=el.innerText;
+ try{{await navigator.clipboard.writeText(t)}}catch(x){{
+  var r=document.createRange();r.selectNodeContents(el);var s=getSelection();s.removeAllRanges();s.addRange(r);document.execCommand('copy')}}
+ b.textContent='Copiado ✓';setTimeout(function(){{b.textContent='Copiar'}},2000)}}}});
+</script></body></html>""",
+        encoding="utf-8",
+    )
+    return True
+
+
 def main():
     posts = []
     if DOCS.exists():
@@ -120,7 +160,10 @@ def main():
         return (f'<a class="{cls}" href="{html.escape(p["url"])}">{html.escape(p["tema"])}'
                 f'<small>{html.escape(p["cab"])}</small></a>')
 
-    corpo = "<h2>Próximos</h2>" + "".join(map(linha, futuros[:9]))
+    corpo = ""
+    if pagina_perfil():
+        corpo += '<a class="row" href="perfil.html">Kit do perfil<small>Headline, competências, Sobre, experiências e pedido de recomendação</small></a>'
+    corpo += "<h2>Próximos</h2>" + "".join(map(linha, futuros[:9]))
     if passados:
         corpo += "<h2>Anteriores</h2>" + "".join(map(linha, reversed(passados[-6:])))
     (DOCS / "index.html").write_text(
