@@ -17,7 +17,7 @@ Formato sugerido é ponto de partida, não regra rígida — pode trocar texto�
 5. Como gero PDF de proposta comercial em segundos sem abrir Word nem imprimir manualmente — *texto*
 6. [USADA — semana 41] Por que decidi não automatizar 100% da aprovação de post — onde o humano ainda precisa entrar — *texto*
 7. O sistema que decide sozinho quando me avisar que um post está pronto pra revisão — *carrossel*
-8. Como uso IA pra gerar dezenas de ideias de conteúdo e filtrar por nota antes de escrever qualquer coisa — *carrossel*
+8. [USADA — semana 46] Como uso IA pra gerar dezenas de ideias de conteúdo e filtrar por nota antes de escrever qualquer coisa — *carrossel*
 9. [USADA — semana 42] A diferença entre pedir "boas ideias" pra uma IA e pedir "gere muitas, eu filtro" — o que mudou no resultado — *texto*
 10. [USADA — semana 42] Como um pipeline transforma uma auditoria de Instagram em calendário de 30 dias automaticamente — *carrossel*
 11. O vício de escrita que uma IA repetia sem eu perceber até eu criar um filtro pra pegar isso — *texto*
@@ -44,7 +44,7 @@ Formato sugerido é ponto de partida, não regra rígida — pode trocar texto�
 
 27. [USADA — semana 40] O que aprendi sobre email marketing B2B trabalhando com benchmarking salarial na MyDNA — *texto*
 28. [USADA — semana 41] Bastidores de Customer Success e Marketing trabalhando juntos — o que muda na forma de escrever — *carrossel*
-29. O que descobri sobre o mercado de RH tech em LATAM trabalhando na MyDNA — *texto*
+29. [USADA — semana 46] O que descobri sobre o mercado de RH tech em LATAM trabalhando na MyDNA — *texto*
 30. Como decido o que testar numa campanha de email B2B antes de rodar pra base inteira — *texto*
 31. [USADA — semana 43] A diferença entre marketing B2C e B2B que só entendi na prática, não na teoria — *carrossel*
 32. O que aprendi sobre precisão de dado trabalhando com benchmarking salarial — *texto*
@@ -54,7 +54,7 @@ Formato sugerido é ponto de partida, não regra rígida — pode trocar texto�
 ## Pilar 4 — Carreira e aprendizado em público (15%)
 
 35. [USADA — semana 41] O que o curso do Afonso Molina mudou na forma como penso conteúdo — *texto*
-36. Um erro que cometi no início e o que eu faria diferente hoje — *texto*
+36. [USADA — semana 46] Um erro que cometi no início e o que eu faria diferente hoje — *texto*
 37. Como a faculdade de marketing digital se conecta (ou não) com o que faço no dia a dia — *carrossel*
 38. [USADA — semana 39] A virada de chave que fez eu parar de esconder que tenho 2 anos de experiência — *texto*
 39. O que aprendi construindo um sistema sozinho, sem time técnico, errando bastante pelo caminho — *carrossel*
