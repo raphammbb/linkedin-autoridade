@@ -64,7 +64,8 @@ def md_para_html(md):
         if all(re.match(r"^- ", l) for l in linhas):
             out.append("<ul>" + "".join(f"<li>{inline(l[2:])}</li>" for l in linhas) + "</ul>")
         elif all(re.match(r"^\d+\. ", l) for l in linhas):
-            out.append("<ol>" + "".join(f"<li>{inline(re.sub(r'^\d+\. ', '', l))}</li>" for l in linhas) + "</ol>")
+            itens = [re.sub(r"^\d+\. ", "", l) for l in linhas]
+            out.append("<ol>" + "".join(f"<li>{inline(item)}</li>" for item in itens) + "</ol>")
         else:
             out.append("<p>" + "<br>".join(inline(l) for l in linhas) + "</p>")
     return "\n".join(out)
