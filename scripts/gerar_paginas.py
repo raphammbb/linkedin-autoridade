@@ -197,6 +197,9 @@ def main():
         encoding="utf-8",
     )
     print(f"{len(posts)} páginas geradas em {DOCS}")
+    sem_texto = [str(q["md"].relative_to(RAIZ)) for q in posts if not q["texto"]]
+    if sem_texto:
+        print("ATENÇÃO: posts sem texto (seção '## Texto final' ou '## Legenda'):", ", ".join(sem_texto))
 
 
 if __name__ == "__main__":

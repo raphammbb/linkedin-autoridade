@@ -27,7 +27,7 @@ Nesse carrossel, o que aprendi observando o mercado de HR tech sobre separar hyp
 
 ## Gancho (pesquisa)
 
-Mercado de HR tech LATAM 2026: vendors se posicionando em torno de "workflows aumentados por IA" capturam atenção desproporcional à diferenciação real de recursos — a observação de mercado (não dado interno da MyDNA) usada como gancho (fontes no resumo-lote.md).
+Mercado de HR tech LATAM 2026: vendors se posicionando em torno de "workflows aumentados por IA" capturam atenção desproporcional à diferenciação real de recursos — a observação de mercado usada como gancho (fontes no resumo-lote.md).
 
 ## Visual
 
