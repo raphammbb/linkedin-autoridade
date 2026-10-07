@@ -64,7 +64,7 @@ Paleta provisória — ajustável a qualquer momento, é só pedir:
 - **Sem link externo no corpo.** Se for necessário, indicar "link no primeiro comentário".
 - **No máximo 3 hashtags**, sempre no final.
 - **Fechamento:** pergunta ou convite a comentar — nunca "comenta EU QUERO" ou variações forçadas.
-- **Dados reais só.** Proibido inventar números, resultados, clientes ou depoimentos. Se o post pede um dado real que falta, deixar `[PREENCHER: o quê]` no lugar exato.
+- **Dados reais só.** Proibido inventar números, resultados, clientes ou depoimentos. **Sem placeholders:** nunca deixar `[PREENCHER]`, `[CONFIRMAR]` ou lacuna parecida em post, slide ou kit. Se falta um dado real, escrever o post sem aquele trecho (ou trocar o ângulo) e listar no `resumo-lote.md`, em "Faltou", o que o Rapha poderia fornecer pra enriquecer. A notificação nunca fala em "preencher".
 
 ### Filtro anti-cara-de-IA (mesmo filtro do carrossel-designer)
 

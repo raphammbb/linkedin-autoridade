@@ -21,7 +21,7 @@ Nesse carrossel, o sistema que uso pra gerar dezenas de ideias e filtrar por cri
 3. **Conteúdo** — "Como eu peço" — Peço quantidade alta de propósito — 30, 40 ideias — não qualidade na primeira resposta. / Quantidade alta me dá material pra comparar, não pra aceitar a primeira que aparece.
 4. **Conteúdo** — "Critério 1 — pilar" — Toda ideia que não encaixa num dos 4 pilares do meu conteúdo sai da lista primeiro. / Tendência de mercado interessante, mas sem pilar, não entra.
 5. **Conteúdo** — "Critério 2 — gancho real" — Dou nota pra cada ideia pensando numa pergunta só: ela funciona nas 2 primeiras linhas, antes do "ver mais"? / Ideia boa com gancho fraco perde pra ideia simples com gancho forte.
-6. **Conteúdo** — "Critério 3 — dado real" — Ideia que depende de inventar número, cliente ou resultado é descartada na hora. / Prefiro um "[PREENCHER]" sincero do que um dado que não existe.
+6. **Conteúdo** — "Critério 3 — dado real" — Ideia que depende de inventar número, cliente ou resultado é descartada na hora. / Prefiro deixar a ideia de fora a inventar um dado que não existe.
 7. **Conteúdo** — "O que sobra" — De 40 ideias, sobram normalmente 3 a 5 com nota alta nos três critérios. / É esse grupo pequeno que eu realmente escrevo.
 8. **CTA** — "Gerar ideia é\na parte fácil.\nFiltrar com critério\né o trabalho." / "Comenta aqui embaixo" / "Qual critério você usa pra filtrar uma ideia antes de escrever?"
 

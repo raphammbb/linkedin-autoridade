@@ -6,9 +6,9 @@
 | Quarta 21/10, 8h–9h | Bastidores MyDNA | Carrossel PDF (7 slides) | Diferença entre escrever pra B2C e pra B2B |
 | Quinta 22/10, 8h–9h | Carreira e aprendizado | Texto + imagem | Onde eu quero chegar e por que documento o processo |
 
-## Pendências [PREENCHER]
+## Faltou
 
-- Post 2 (carrossel), slide 5: `[PREENCHER: exemplo real de um ajuste feito num conteúdo B2B]` — precisa de um exemplo real de algo que o Rapha ajustou de fato num conteúdo B2B antes de agendar. Nenhum número ou dado da MyDNA foi inventado para preencher isso.
+Nada. O slide 5 do carrossel (post 2) foi reescrito sem exemplo pessoal.
 
 ## Fontes da pesquisa de gancho
 
@@ -29,7 +29,6 @@
 
 ```
 ☐ Revisar os 3 textos
-☐ Preencher o [PREENCHER] do slide 5 do carrossel (post 2) com exemplo real
 ☐ Conferir visuais (2 PNGs + 1 PDF)
 ☐ Agendar terça 20/10, 8h–9h
 ☐ Agendar quarta 21/10, 8h–9h
