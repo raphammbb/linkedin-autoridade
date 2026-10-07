@@ -29,3 +29,4 @@ Atualizado a cada lote gerado pela skill `linkedin-autoridade-semanal`.
 | 10/11/2026 | Terça | Bastidores MyDNA (3) | Texto + imagem | O que descobri sobre o mercado de RH tech em LATAM (29) | rascunho |
 | 11/11/2026 | Quarta | Carreira e aprendizado (4) | Texto + imagem | Um erro que cometi no início, o que faria diferente hoje (36) | rascunho |
 | 12/11/2026 | Quinta | IA aplicada ao marketing (1) | Carrossel PDF | Gerar dezenas de ideias com IA e filtrar por nota (8) | rascunho |
+| 07/10/2026 | Quarta | IA aplicada ao marketing (1) | Artigo | A automação funcionou. Eu não postei nada por quase duas semanas. | rascunho (publicar 12h) |
