@@ -1,0 +1,43 @@
+{
+  "slides": [
+    {
+      "tipo": "capa",
+      "titulo": "Marketing promete.\nO atendimento explica.\nO cliente compara.",
+      "subtitulo": "Por que os dois discursos precisam ser o mesmo"
+    },
+    {
+      "tipo": "conteudo",
+      "titulo": "Onde começa o problema",
+      "corpo": "O marketing escreve pra atrair. O atendimento responde quando o cliente já está dentro. Cada área ajusta o discurso por conta própria, e quem percebe a diferença é o cliente."
+    },
+    {
+      "tipo": "conteudo",
+      "titulo": "O que o atendimento sabe e o marketing não",
+      "bullets": [
+        "A dúvida que mais se repete é o melhor gancho de conteúdo",
+        "A objeção real aparece no suporte, não no briefing",
+        "O que o cliente esperava e não encontrou mostra o que o texto prometeu demais"
+      ]
+    },
+    {
+      "tipo": "conteudo",
+      "titulo": "Onde a diferença aparece",
+      "bullets": [
+        "No e-mail que convida pra uma conversa, em vez de empurrar um clique",
+        "Na explicação de um produto técnico, sem inflar expectativa",
+        "No tom, que não deveria mudar entre o post e o atendimento"
+      ]
+    },
+    {
+      "tipo": "conteudo",
+      "titulo": "O custo de não alinhar",
+      "corpo": "Quando os dois discursos divergem, o cliente se sente enganado no meio do caminho, mesmo que ninguém tenha mentido de propósito."
+    },
+    {
+      "tipo": "cta",
+      "chamada": "Escrever pra quem vai usar de verdade",
+      "acao": "Comenta aqui embaixo",
+      "pergunta": "Sua empresa já teve marketing e atendimento dizendo coisas diferentes pro mesmo cliente?"
+    }
+  ]
+}

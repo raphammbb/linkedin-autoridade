@@ -4,15 +4,17 @@ gerar_visual.py — Motor de renderização visual da skill linkedin-autoridade-
 
 Gera:
   --tipo post       -> 1 PNG (1080x1350 por padrão) a partir de templates/post_texto.html.j2
-  --tipo carrossel  -> 1 PDF único (slides 1080x1350) a partir de templates/slide_carrossel.html.j2
+  --tipo carrossel  -> 1 PASTA com slide-01.png ... slide-NN.png (1080x1350) + spec.json, a partir de
+                       templates/slide_carrossel.html.j2. (LinkedIn pessoal: publicar como várias imagens,
+                       nunca PDF — decisão do Rapha, 07/10/2026.)
 
 Usa Chrome headless para o HTML->PNG (mesmo padrão já validado em carrossel.py e nas
 propostas/auditorias em PDF — ver memória reference_html_para_pdf_chrome_headless.md)
-e Pillow para juntar os PNGs dos slides num PDF único (sem dependência externa nova).
+(carrossel: cada slide é salvo como PNG separado, sem PDF).
 
 Uso:
   python3 gerar_visual.py --tipo post --json '{"pilar_label": "...", "titulo": "...", "corpo": "..."}' --out saida.png
-  python3 gerar_visual.py --tipo carrossel --json '{"slides": [...]}' --out saida.pdf
+  python3 gerar_visual.py --tipo carrossel --json '{"slides": [...]}' --out pasta-do-carrossel
   python3 gerar_visual.py --tipo post --json-file spec.json --out saida.png
 """
 
@@ -97,7 +99,8 @@ def render_post_texto(spec: dict, out_png: Path) -> Path:
     return out_png
 
 
-def render_carrossel(spec: dict, out_pdf: Path) -> Path:
+def render_carrossel(spec: dict, out_dir: Path) -> Path:
+    """Gera out_dir/slide-NN.png (um PNG por slide) e out_dir/spec.json."""
     w = spec.get("w", DEFAULT_W)
     h = spec.get("h", DEFAULT_H)
     slides = spec["slides"]
@@ -108,36 +111,21 @@ def render_carrossel(spec: dict, out_pdf: Path) -> Path:
     env = get_env()
     template = env.get_template("slide_carrossel.html.j2")
 
-    out_pdf.parent.mkdir(parents=True, exist_ok=True)
+    out_dir.mkdir(parents=True, exist_ok=True)
+    for antigo in out_dir.glob("slide-*.png"):
+        antigo.unlink()
     with tempfile.TemporaryDirectory() as tmp:
         tmp_dir = Path(tmp)
-        png_paths = []
         for i, slide in enumerate(slides, start=1):
             ctx = dict(slide)
             ctx.update(w=w, h=h, index=i, total=total)
             html = template.render(**ctx)
             html_path = tmp_dir / f"slide_{i:02d}.html"
             html_path.write_text(html, encoding="utf-8")
-            png_path = tmp_dir / f"slide_{i:02d}.png"
-            html_to_png(html_path, png_path, w, h)
-            png_paths.append(png_path)
+            html_to_png(html_path, out_dir / f"slide-{i:02d}.png", w, h)
             print(f"  ✓ slide {i:02d}/{total:02d}")
-
-        combine_pngs_to_pdf(png_paths, out_pdf)
-    return out_pdf
-
-
-def combine_pngs_to_pdf(png_paths: list, out_pdf: Path) -> None:
-    try:
-        from PIL import Image
-    except ImportError as e:
-        raise ImportError(
-            "Pillow não instalado. Rode: pip install Pillow (ou python3 -m pip install Pillow)."
-        ) from e
-
-    images = [Image.open(p).convert("RGB") for p in png_paths]
-    first, rest = images[0], images[1:]
-    first.save(out_pdf, save_all=True, append_images=rest)
+    (out_dir / "spec.json").write_text(json.dumps(spec, ensure_ascii=False, indent=2), encoding="utf-8")
+    return out_dir
 
 
 def main():
@@ -145,7 +133,7 @@ def main():
     parser.add_argument("--tipo", choices=["post", "carrossel"], required=True)
     parser.add_argument("--json", help="Spec em JSON inline.")
     parser.add_argument("--json-file", help="Caminho de um arquivo JSON com a spec.")
-    parser.add_argument("--out", required=True, help="Caminho de saída (.png para post, .pdf para carrossel).")
+    parser.add_argument("--out", required=True, help="Saída: arquivo .png (post) ou pasta (carrossel).")
     args = parser.parse_args()
 
     if args.json:

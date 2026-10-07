@@ -10,6 +10,7 @@ Uso: python3 scripts/gerar_paginas.py
 import html
 import re
 import shutil
+import zipfile
 from datetime import date
 from pathlib import Path
 
@@ -50,7 +51,7 @@ def ler_post(md: Path):
     ano = 2026
     data = date(ano, int(dm.group(2)), int(dm.group(1))) if dm else None
     pauta = re.search(r"Pauta banco nº:\*\*\s*\d+\s*—\s*\"?(.+?)\"?\s*$", t, re.M)
-    visual = re.search(r"`([^`]+\.(?:png|pdf))`", secao(t, "Visual"))
+    visual = re.search(r"`([^`]+(?:\.png|\.pdf|/))`", secao(t, "Visual"))
     return {
         "md": md,
         "cab": cab,
@@ -59,18 +60,24 @@ def ler_post(md: Path):
         "texto": secao(t, "Texto final") or secao(t, "Legenda"),
         "comentario": secao(t, "Primeiro comentário sugerido"),
         "visual": visual.group(1) if visual else None,
+        "stem": md.stem,
     }
 
 
 def pagina_post(p, semana):
     e = html.escape
     vis = ""
-    if p["visual"]:
-        arq = p["visual"]
-        if arq.endswith(".png"):
-            vis = f'<img src="{e(arq)}" alt="visual do post">'
-        rot = "Baixar PDF do carrossel" if arq.endswith(".pdf") else "Baixar imagem"
-        vis += f'<a class="btn s" href="{e(arq)}" download>{rot}</a>'
+    arq = p["visual"] or ""
+    if arq.endswith(".png"):
+        vis = f'<img src="{e(arq)}" alt="visual do post"><a class="btn s" href="{e(arq)}" download>Baixar imagem</a>'
+    elif p.get("slides"):
+        n = len(p["slides"])
+        vis = f'<a class="btn s" href="{e(p["stem"])}.zip" download>Baixar os {n} slides (.zip)</a>'
+        vis += '<div class="meta" style="margin-top:10px">No celular: segure o dedo sobre cada slide e escolha Salvar imagem. Publique no LinkedIn como várias imagens, na ordem.</div>'
+        for i, sl in enumerate(p["slides"], 1):
+            vis += (f'<div class="meta" style="margin-top:14px">Slide {i} de {n}</div>'
+                    f'<img src="{e(p["stem"])}/{e(sl)}" alt="slide {i}">'
+                    f'<a class="btn s" href="{e(p["stem"])}/{e(sl)}" download>Baixar slide {i}</a>')
     com = ""
     if p["comentario"] and p["comentario"] != "—":
         com = f'<h2>Primeiro comentário</h2><div class="box">{e(p["comentario"])}</div>'
@@ -145,8 +152,22 @@ def main():
             p = ler_post(md)
             destino = DOCS / pasta.name
             destino.mkdir(exist_ok=True)
-            if p["visual"] and (pasta / p["visual"]).exists():
-                shutil.copy(pasta / p["visual"], destino / p["visual"])
+            v = p["visual"] or ""
+            if v.endswith(".pdf"):  # compat: carrosséis antigos citavam o PDF; a pasta de slides tem o mesmo nome
+                v = v[:-4] + "/"
+                p["visual"] = v
+            if v.endswith("/") and (pasta / v).is_dir():
+                slides = sorted(x.name for x in (pasta / v).glob("slide-*.png"))
+                p["slides"] = slides
+                alvo = destino / md.stem
+                alvo.mkdir(exist_ok=True)
+                for sl in slides:
+                    shutil.copy(pasta / v / sl, alvo / sl)
+                with zipfile.ZipFile(destino / f"{md.stem}.zip", "w") as z:
+                    for sl in slides:
+                        z.write(pasta / v / sl, sl)
+            elif v and (pasta / v).exists():
+                shutil.copy(pasta / v, destino / v)
             (destino / f"{md.stem}.html").write_text(pagina_post(p, pasta.name), encoding="utf-8")
             p["url"] = f"{pasta.name}/{md.stem}.html"
             posts.append(p)
