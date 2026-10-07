@@ -40,12 +40,14 @@ Vagas-alvo: Marketing + IA/Automação, e Marketing de Conteúdo/Social.
 
 Tendências de mercado entram como **gancho dentro dos pilares acima**, nunca como tema solto/isolado.
 
-## Ritmo e formato
+## Ritmo e formato (revisado em 07/10/2026)
 
-- **3 posts/semana:** terça, quarta e quinta, entre 8h e 9h (horário de Brasília).
-- **2 posts de texto + imagem** e **1 carrossel em PDF** (documento nativo do LinkedIn) por semana.
-- **Carrossel:** lógica adaptada do `carrossel-designer-logos`, mas para LinkedIn — 1080×1350px, 6 a 10 slides, exportado como **PDF único**. Visual de marca pessoal, nunca a identidade da Agência Logos (`#0C0B14`/`#5B3FF8` são exclusivos da Logos).
-- **Imagem dos posts de texto:** 1 visual simples (1080×1350 ou 1200×1200) gerado via Chrome headless a partir de HTML, ou sugestão de print/bastidor real que o Rapha tira e sobe manualmente.
+- **1 artigo por semana, publicado na quarta-feira ao meio-dia** (artigo nativo do LinkedIn). Decisão do Rapha: sem carrossel e sem posts diários, pra não parecer que perde tempo produzindo post.
+- A rotina gera o artigo na **segunda de manhã**, pra ele revisar até quarta. O lembrete de quarta 12h é um evento recorrente no Google Calendar.
+- Cada artigo vem com: título, subtítulo, texto (700 a 1.100 palavras, subtítulos `###`, parágrafos curtos), **capa 1280×720** e **aviso curto no feed** (3 a 4 linhas, link do artigo no primeiro comentário, nunca no corpo).
+- Fechamento do artigo: **uma pergunta específica** (nunca "comenta aqui embaixo").
+- Depois de publicar: responder comentários na primeira hora e comentar em 2 ou 3 posts de outras pessoas.
+- Os 24 posts e carrosséis antigos estão em `arquivo-posts/` como reserva de temas (não publicar como estão).
 
 ## Identidade visual pessoal (separada da Agência Logos)
 
@@ -56,7 +58,9 @@ Paleta provisória — ajustável a qualquer momento, é só pedir:
 - Texto: `#F5F5F2` (quase-branco quente)
 - Fonte: Inter (mesma família, mas isso é neutro/utilitário, não é "marca")
 
-## Regras de escrita (LinkedIn)
+## Regras de escrita (LinkedIn, valem pro artigo e pro aviso)
+
+- **Primeira pessoa só com fatos de `fatos.md`.** Nada de anedota inventada.
 
 - **Gancho:** as 2 primeiras linhas precisam funcionar sozinhas, antes do "ver mais" (~200 caracteres).
 - **Respiro:** parágrafos de 1 a 2 linhas.

@@ -2,7 +2,9 @@
 
 40 pautas iniciais, distribuídas na proporção dos pilares ([[posicionamento]]): Pilar 1 = 16 (40%), Pilar 2 = 10 (25%), Pilar 3 = 8 (20%), Pilar 4 = 6 (15%).
 
-**Como usar:** ao montar o lote semanal, escolher 3 pautas ainda não usadas (checar `historico.md`), respeitando a proporção ao longo do mês — não 3 pautas do mesmo pilar na mesma semana, salvo justificativa. Marcar aqui como `[USADA — semana XX]` quando entrar num lote, sem apagar a linha (histórico de banco).
+**Como usar (artigos, desde 07/10/2026):** cada pauta vira 1 artigo semanal (pode combinar 2 pautas do mesmo pilar). Primeira pessoa só com `fatos.md`.
+
+**Como usar (original):** ao montar o lote semanal, escolher 3 pautas ainda não usadas (checar `historico.md`), respeitando a proporção ao longo do mês — não 3 pautas do mesmo pilar na mesma semana, salvo justificativa. Marcar aqui como `[USADA — semana XX]` quando entrar num lote, sem apagar a linha (histórico de banco).
 
 Formato sugerido é ponto de partida, não regra rígida — pode trocar texto↔carrossel na hora de produzir se fizer mais sentido com o gancho da semana.
 
