@@ -30,3 +30,4 @@ Atualizado a cada lote gerado pela skill `linkedin-autoridade-semanal`.
 | 11/11/2026 | Quarta | Carreira e aprendizado (4) | Texto + imagem | Um erro que cometi no início, o que faria diferente hoje (36) | rascunho |
 | 12/11/2026 | Quinta | IA aplicada ao marketing (1) | Carrossel PDF | Gerar dezenas de ideias com IA e filtrar por nota (8) | rascunho |
 | 07/10/2026 | Quarta | IA aplicada ao marketing (1) | Artigo | A automação funcionou. Eu não postei nada por quase duas semanas. | rascunho (publicar 12h) |
+| 14/10/2026 | Quarta | IA aplicada ao marketing (1) | Artigo | O arquivo que evita repetir tema entre contas diferentes (16) | rascunho |

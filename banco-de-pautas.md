@@ -27,7 +27,7 @@ Formato sugerido é ponto de partida, não regra rígida — pode trocar texto�
 13. [USADA — semana 45] Por que abandonei a automação de publicar direto no Instagram via navegador — e o que fiz no lugar — *texto*
 14. Como testo uma hipótese de conteúdo com dado real antes de pensar em escalar — *carrossel*
 15. Bastidores de como decido entre gerar imagem por IA generativa ou usar só design tipográfico num post — *texto*
-16. O sistema que uso pra nunca repetir tema de conteúdo entre contas diferentes — *texto*
+16. [USADA — artigo 14/10] O sistema que uso pra nunca repetir tema de conteúdo entre contas diferentes — *texto*
 
 ## Pilar 2 — Conteúdo & copy (25%)
 
