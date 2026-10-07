@@ -1,0 +1,48 @@
+{
+  "slides": [
+    {
+      "tipo": "capa",
+      "titulo": "Aprendi a diferença entre B2C e B2B errando na prática",
+      "subtitulo": "O que mudou quando passei a escrever pra quem decide compra"
+    },
+    {
+      "tipo": "conteudo",
+      "titulo": "O erro no início",
+      "bullets": [
+        "Escrevia pauta como se fosse pra consumidor final",
+        "Gancho emocional forte, prova social pesada",
+        "Engajamento baixo, porque quem decide compra em B2B não reage assim"
+      ]
+    },
+    {
+      "tipo": "conteudo",
+      "titulo": "A primeira diferença",
+      "corpo": "Em B2B a decisão passa por comitê, não por impulso. O gancho certo não é \"sinta isso agora\", é \"isso resolve o meu problema de verdade?\""
+    },
+    {
+      "tipo": "conteudo",
+      "titulo": "A segunda diferença",
+      "corpo": "Quem lê, em geral, não é quem vai usar a ferramenta no dia a dia. É quem decide por um time inteiro, e isso muda o nível de prova que o texto precisa trazer."
+    },
+    {
+      "tipo": "conteudo",
+      "titulo": "O que aprendi na prática",
+      "bullets": [
+        "Dado concreto pesa mais que apelo emocional",
+        "Precisão da informação importa mais que criatividade da forma",
+        "Clareza sobre o que a solução faz pesa mais que um tom bonito"
+      ]
+    },
+    {
+      "tipo": "conteudo",
+      "titulo": "O que ainda erro",
+      "corpo": "Calibrar o tom ainda é difícil. Às vezes fica formal demais, às vezes informal demais pra quem decide orçamento."
+    },
+    {
+      "tipo": "cta",
+      "chamada": "B2C busca reação. B2B busca confiança.",
+      "acao": "Comenta aqui embaixo",
+      "pergunta": "Qual foi a diferença que mais te surpreendeu indo de B2C pra B2B (ou o contrário)?"
+    }
+  ]
+}

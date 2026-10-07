@@ -1,7 +1,7 @@
 # Post 2 — Quarta, 23/09, 8h–9h
 
 **Pilar:** IA aplicada ao marketing (40%)
-**Formato:** Carrossel PDF (7 slides)
+**Formato:** Carrossel (7 imagens PNG, publicar como várias imagens, não PDF)
 **Pauta banco nº:** 1 — "Como montei um sistema de skills que gera auditoria de Instagram sozinho, sem eu saber programar"
 **Gancho da semana:** formatos nativos (documento/carrossel) estão performando melhor no algoritmo atual do LinkedIn — ver fontes no `resumo-lote.md`.
 
@@ -23,11 +23,11 @@ Nesse carrossel eu abro o que o sistema faz, onde eu ainda entro e o que quebrou
 4. **Conteúdo** — "Onde eu ainda entro" — Decido o que vira recomendação e reviso o tom antes de qualquer entrega. O sistema junta informação — quem decide o que importa ainda sou eu.
 5. **Conteúdo** — "O que quebrou no caminho" — Um script parou de rodar sem aviso / Uma auditoria saiu com dado errado / Aprendi a debugar sem saber programar
 6. **Conteúdo** — "O que ficou claro" — Não precisa saber programar pra construir um sistema. Precisa entender o processo bem o suficiente pra desenhar ele — o código é só a execução.
-7. **CTA** — "Isso é marketing com IA na prática" / "Guarda esse carrossel se você também tá tentando construir sem ser dev" / "Você já tentou automatizar algo sem saber programar? Como foi?"
+7. **CTA** — "Isso é marketing com IA na prática" / "Comenta aqui embaixo" / "Você já tentou automatizar algo sem saber programar? Como foi?"
 
 ## Visual
 
-`02-quarta-pilar1-carrossel.pdf` (1080×1350, 7 páginas, gerado)
+`02-quarta-pilar1-carrossel/` (slide-01.png a slide-07.png, 1080×1350; fonte: `02-quarta-pilar1-carrossel-slides.json`)
 
 ## Primeiro comentário sugerido
 

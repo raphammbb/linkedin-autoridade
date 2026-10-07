@@ -1,26 +1,24 @@
 # Post 3 — Quinta, 01/10, 8h–9h
 
-**Pilar:** Bastidores B2B/SaaS · MyDNA (20%)
+**Pilar:** Marketing B2B e mercado de HR Tech (20%)
 **Formato:** Texto + imagem
-**Pauta banco nº:** 27 — "O que aprendi sobre email marketing B2B trabalhando com benchmarking salarial na MyDNA"
+**Pauta banco nº:** 27 — "O que muda no e-mail marketing B2B quando quem lê decide política de RH"
 
 ## Texto final
 
-Na MyDNA eu trabalho com email marketing B2B pra RH — o produto é benchmarking salarial, mercado LATAM.
+E-mail de marketing pra decisor de RH quebra uma lógica do B2C: ninguém abre querendo se divertir. Abre querendo confiança de que o que está ali é confiável.
 
-A primeira coisa que quebrou minha lógica de marketing B2C: ninguém abre um email de RH querendo se divertir. Abre querendo confiança de que o dado ali é confiável.
+Isso muda o assunto. Gancho criativo demais soa como spam pra quem decide política salarial de uma empresa inteira. O que funciona é clareza: dizer exatamente o que tem dentro, sem forçar curiosidade.
 
-Isso muda o que funciona no assunto do email. Gancho criativo demais soa como spam pra quem decide política salarial de uma empresa inteira. O que funciona é clareza — dizer exatamente o que tem dentro, sem forçar curiosidade.
+Muda também o call-to-action. Em vez de "clica aqui", "agenda uma conversa", porque a decisão de adotar uma ferramenta nessa área não é impulsiva. Passa por RH e, às vezes, por financeiro.
 
-Também muda o call-to-action. Não é "clica aqui" — é "agenda uma conversa", porque a decisão de usar um benchmarking salarial não é impulsiva, passa por RH, às vezes por financeiro.
+O maior aprendizado: em B2B, o e-mail não precisa convencer sozinho. Ele só precisa abrir a porta pra uma conversa que confirma a credibilidade que ele já sugeriu.
 
-O maior aprendizado: em B2B, o email não precisa convencer sozinho. Ele só precisa abrir a porta pra uma conversa que confirma a credibilidade que o email já sugeriu.
+É bem diferente da lógica do Instagram, onde o gancho pode (e deve) ser mais ousado.
 
-Isso é bem diferente da lógica de conteúdo que eu uso no Instagram, por exemplo — lá o gancho pode (e deve) ser mais ousado.
+Como você pensa o CTA de forma diferente entre B2B e B2C?
 
-Como vocês pensam CTA diferente entre B2B e B2C?
-
-#mydna #marketingb2b #emailmarketing
+#marketingb2b #emailmarketing #rhtech
 
 ## Visual
 

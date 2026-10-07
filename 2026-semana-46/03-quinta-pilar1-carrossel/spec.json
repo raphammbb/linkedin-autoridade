@@ -1,0 +1,63 @@
+{
+  "slides": [
+    {
+      "tipo": "capa",
+      "titulo": "Peço 40 ideias\nde conteúdo pra IA.\nEscrevo talvez 3.",
+      "subtitulo": "O sistema que uso pra filtrar antes de escrever qualquer coisa"
+    },
+    {
+      "tipo": "conteudo",
+      "titulo": "O problema",
+      "bullets": [
+        "Pedir \"boas ideias\" pra uma IA devolve ideia genérica, sem critério.",
+        "A maioria dos times usa IA pra gerar conteúdo sem ter um jeito de medir se o resultado é bom."
+      ]
+    },
+    {
+      "tipo": "conteudo",
+      "titulo": "Como eu peço",
+      "bullets": [
+        "Peço quantidade alta de propósito — 30, 40 ideias — não qualidade na primeira resposta.",
+        "Quantidade alta me dá material pra comparar, não pra aceitar a primeira que aparece."
+      ]
+    },
+    {
+      "tipo": "conteudo",
+      "titulo": "Critério 1 — pilar",
+      "bullets": [
+        "Toda ideia que não encaixa num dos 4 pilares do meu conteúdo sai da lista primeiro.",
+        "Tendência de mercado interessante, mas sem pilar, não entra."
+      ]
+    },
+    {
+      "tipo": "conteudo",
+      "titulo": "Critério 2 — gancho real",
+      "bullets": [
+        "Dou nota pra cada ideia pensando numa pergunta só: ela funciona nas 2 primeiras linhas, antes do \"ver mais\"?",
+        "Ideia boa com gancho fraco perde pra ideia simples com gancho forte."
+      ]
+    },
+    {
+      "tipo": "conteudo",
+      "titulo": "Critério 3 — dado real",
+      "bullets": [
+        "Ideia que depende de inventar número, cliente ou resultado é descartada na hora.",
+        "Prefiro um \"[PREENCHER]\" sincero do que um dado que não existe."
+      ]
+    },
+    {
+      "tipo": "conteudo",
+      "titulo": "O que sobra",
+      "bullets": [
+        "De 40 ideias, sobram normalmente 3 a 5 com nota alta nos três critérios.",
+        "É esse grupo pequeno que eu realmente escrevo."
+      ]
+    },
+    {
+      "tipo": "cta",
+      "chamada": "Gerar ideia é\na parte fácil.\nFiltrar com critério\né o trabalho.",
+      "acao": "Comenta aqui embaixo",
+      "pergunta": "Qual critério você usa pra filtrar uma ideia antes de escrever?"
+    }
+  ]
+}

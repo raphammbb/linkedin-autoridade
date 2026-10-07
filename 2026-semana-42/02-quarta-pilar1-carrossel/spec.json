@@ -1,0 +1,57 @@
+{
+  "slides": [
+    {
+      "tipo": "capa",
+      "titulo": "Uma auditoria de Instagram vira calendário de 30 dias sem eu montar nada na mão",
+      "subtitulo": "O pipeline que fecha esse ciclo"
+    },
+    {
+      "tipo": "conteudo",
+      "titulo": "O problema antes",
+      "bullets": [
+        "Auditoria terminava e o calendário começava do zero",
+        "Insight bom se perdia entre uma etapa e outra",
+        "Cada cliente virava um processo manual diferente"
+      ]
+    },
+    {
+      "tipo": "conteudo",
+      "titulo": "O que mudou",
+      "corpo": "A auditoria já sai estruturada pra virar insumo — não é só relatório pra ler, é dado organizado pra outra etapa consumir."
+    },
+    {
+      "tipo": "conteudo",
+      "titulo": "O que o pipeline faz",
+      "bullets": [
+        "Lê os padrões da auditoria (o que travou, o que funcionou)",
+        "Sugere tema com formato pra cada um",
+        "Organiza tudo num calendário de 30 dias pronto pra revisão"
+      ]
+    },
+    {
+      "tipo": "conteudo",
+      "titulo": "Onde eu ainda entro",
+      "corpo": "Reviso se o tema faz sentido pro momento do cliente. O sistema sugere direção, não decide sozinho o que vai ao ar."
+    },
+    {
+      "tipo": "conteudo",
+      "titulo": "O ganho real",
+      "bullets": [
+        "Etapa que levava um dia inteiro, leva menos de uma hora",
+        "Nenhum insight da auditoria se perde no caminho",
+        "O processo é igual pra qualquer cliente novo"
+      ]
+    },
+    {
+      "tipo": "conteudo",
+      "titulo": "O que ainda falta",
+      "corpo": "O perfil pessoal ainda não tem esse pipeline fechado — hoje o calendário dele é manual. É a próxima peça que quero automatizar."
+    },
+    {
+      "tipo": "cta",
+      "chamada": "Cada etapa automatizada vira insumo pra próxima",
+      "acao": "Comenta aqui embaixo",
+      "pergunta": "Onde no seu processo um insight bom costuma se perder?"
+    }
+  ]
+}

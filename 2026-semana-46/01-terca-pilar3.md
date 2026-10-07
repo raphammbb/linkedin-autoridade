@@ -1,30 +1,26 @@
 # Post 1 — Terça, 10/11, 8h–9h
 
-**Pilar:** Bastidores B2B/SaaS · MyDNA (20%)
+**Pilar:** Marketing B2B e mercado de HR Tech (20%)
 **Formato:** Texto + imagem
-**Pauta banco nº:** 29 — "O que descobri sobre o mercado de RH tech em LATAM trabalhando na MyDNA"
+**Pauta banco nº:** 29 — "O que o mercado de RH tech na LATAM mostra sobre dado e confiança"
 
 ## Texto final
 
-Entrei na MyDNA achando que ia só comparar número de salário com número de salário.
+Boa parte do RH na América Latina ainda decide contratação numa planilha, num e-mail perdido ou num grupo de WhatsApp.
 
-O problema que vi de perto no RH tech da LATAM estava em outro lugar: onde esse dado mora dentro da empresa.
-
-Boa parte do RH ainda decide contratação numa planilha, num e-mail perdido ou num grupo de WhatsApp.
-
-Isso não é atraso de quem trabalha ali. É o tamanho real do problema que o setor ainda está resolvendo — Brasil na frente, puxado por um volume de contratação gigante e uma legislação trabalhista que não perdoa improviso.
+Isso não é atraso de quem trabalha na área. É o tamanho real do problema que o setor ainda está resolvendo, com o Brasil na frente, puxado por um volume de contratação gigante e uma legislação trabalhista que não perdoa improviso.
 
 Benchmarking salarial parece simples de fora: pega o número, compara, pronto.
 
-Na prática, o trabalho inteiro está em garantir que esse número chega ao gestor refletindo o mercado agora, não um retrato velho guardado numa aba qualquer.
+Na prática, o difícil é garantir que o número chegue ao gestor refletindo o mercado de agora, não um retrato velho guardado numa aba qualquer.
 
-Foi a primeira vez que vi de perto a diferença entre ter dado e ter um dado em que alguém confia pra decidir o salário de outra pessoa.
+É a diferença entre ter dado e ter um dado em que alguém confia pra decidir o salário de outra pessoa.
 
-Mudou como eu avalio qualquer ferramenta de marketing B2B que vende "temos o dado" como diferencial sozinho.
+E isso muda como eu avalio qualquer ferramenta de marketing B2B que vende "temos o dado" como diferencial sozinho.
 
-Você já trabalhou perto de um processo que parecia simples de fora e só entendeu o tamanho real dele vendo por dentro?
+Você já viu um processo que parecia simples de fora e só mostrou o tamanho real quando olhou de perto?
 
-#rhtech #marketingb2b #mydna
+#rhtech #marketingb2b #hrtech
 
 ## Gancho (pesquisa)
 

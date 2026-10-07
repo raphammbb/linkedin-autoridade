@@ -1,7 +1,7 @@
 # Post 3 — Quinta, 05/11, 8h–9h
 
 **Pilar:** IA aplicada ao marketing (40%)
-**Formato:** Carrossel PDF (8 slides)
+**Formato:** Carrossel (8 imagens PNG, publicar como várias imagens, não PDF)
 **Pauta banco nº:** 12 — "Como decido qual tarefa automatizar primeiro num fluxo de marketing — o que vale a pena e o que não vale"
 
 ## Legenda (texto do post)
@@ -31,7 +31,7 @@ Tendência 2026: equipes saindo da automação pontual (uma tarefa isolada) para
 
 ## Visual
 
-`03-quinta-pilar1-carrossel.pdf` (1080×1350, 8 páginas, gerado)
+`03-quinta-pilar1-carrossel/` (slide-01.png a slide-08.png, 1080×1350; fonte: `03-quinta-pilar1-carrossel-slides.json`)
 
 ## Primeiro comentário sugerido
 

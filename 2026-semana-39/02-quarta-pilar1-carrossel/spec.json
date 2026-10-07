@@ -1,0 +1,52 @@
+{
+  "slides": [
+    {
+      "tipo": "capa",
+      "titulo": "Não sei programar. Montei um sistema que audita Instagram sozinho.",
+      "subtitulo": "Como funciona por dentro — sem enrolação."
+    },
+    {
+      "tipo": "conteudo",
+      "titulo": "O problema que eu tinha",
+      "bullets": [
+        "Cada auditoria levava horas pra montar",
+        "O texto saía parecido em todo cliente",
+        "Eu queria repetir o processo, não o trabalho"
+      ]
+    },
+    {
+      "tipo": "conteudo",
+      "titulo": "O que o sistema faz sozinho",
+      "bullets": [
+        "Lê o perfil e organiza os dados",
+        "Gera o relatório pronto em HTML",
+        "Publica direto, sem eu tocar em código"
+      ]
+    },
+    {
+      "tipo": "conteudo",
+      "titulo": "Onde eu ainda entro",
+      "corpo": "Decido o que vira recomendação e reviso o tom antes de qualquer entrega. O sistema junta informação — quem decide o que importa ainda sou eu."
+    },
+    {
+      "tipo": "conteudo",
+      "titulo": "O que quebrou no caminho",
+      "bullets": [
+        "Um script parou de rodar sem aviso",
+        "Uma auditoria saiu com dado errado",
+        "Aprendi a debugar sem saber programar"
+      ]
+    },
+    {
+      "tipo": "conteudo",
+      "titulo": "O que ficou claro",
+      "corpo": "Não precisa saber programar pra construir um sistema. Precisa entender o processo bem o suficiente pra desenhar ele — o código é só a execução."
+    },
+    {
+      "tipo": "cta",
+      "chamada": "Isso é marketing com IA na prática",
+      "acao": "Comenta aqui embaixo",
+      "pergunta": "Você já tentou automatizar algo sem saber programar? Como foi?"
+    }
+  ]
+}

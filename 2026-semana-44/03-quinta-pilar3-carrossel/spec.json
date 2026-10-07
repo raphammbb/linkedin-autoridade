@@ -1,0 +1,53 @@
+{
+  "slides": [
+    {
+      "tipo": "capa",
+      "titulo": "Um aprendizado de LATAM que mudou como escrevo conteúdo B2B",
+      "subtitulo": "Nem todo hype de IA em HR tech é diferenciação real"
+    },
+    {
+      "tipo": "conteudo",
+      "titulo": "O contexto",
+      "corpo": "Mercado de HR tech na LATAM em 2026: quase todo vendor fala de IA na proposta de valor, e boa parte dos textos soa igual."
+    },
+    {
+      "tipo": "conteudo",
+      "titulo": "O que reparei no mercado",
+      "bullets": [
+        "Quase todo concorrente de HR tech na região citava \"IA\" na proposta de valor em 2026",
+        "Boa parte descrevia o mesmo recurso genérico, só com nome diferente",
+        "A diferenciação real era mais rara do que o discurso sugeria"
+      ]
+    },
+    {
+      "tipo": "conteudo",
+      "titulo": "A armadilha de conteúdo",
+      "corpo": "Era fácil cair em citar IA como diferencial só porque todo concorrente citava. Isso apagava justamente o que separava uma solução da outra."
+    },
+    {
+      "tipo": "conteudo",
+      "titulo": "O que mudou na forma como escrevo",
+      "bullets": [
+        "Parei de abrir texto citando IA como enfeite de manchete",
+        "Passei a perguntar: isso resolve um problema específico de RH na região, ou é recurso genérico?",
+        "Sem resposta clara, o texto não sai do rascunho"
+      ]
+    },
+    {
+      "tipo": "conteudo",
+      "titulo": "Por que isso pesa mais em LATAM",
+      "corpo": "O ciclo de decisão de RH tech na região já é mais longo. Quem decide sente rápido quando o conteúdo é hype disfarçado de diferencial."
+    },
+    {
+      "tipo": "conteudo",
+      "titulo": "O aprendizado",
+      "corpo": "Entender bem o contexto regional vale mais como argumento do que qualquer menção solta de IA no meio do texto."
+    },
+    {
+      "tipo": "cta",
+      "chamada": "Diferenciação real não precisa de buzzword",
+      "acao": "Compartilha se você também filtra hype antes de escrever",
+      "pergunta": "Que buzzword de mercado você parou de usar depois de ver todo mundo repetir a mesma?"
+    }
+  ]
+}

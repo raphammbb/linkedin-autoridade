@@ -1,7 +1,7 @@
 # Post 3 — Quinta, 12/11, 8h–9h
 
 **Pilar:** IA aplicada ao marketing (40%)
-**Formato:** Carrossel PDF (8 slides)
+**Formato:** Carrossel (8 imagens PNG, publicar como várias imagens, não PDF)
 **Pauta banco nº:** 8 — "Como uso IA pra gerar dezenas de ideias de conteúdo e filtrar por nota antes de escrever qualquer coisa"
 
 ## Legenda (texto do post)
@@ -31,7 +31,7 @@ Apenas 19% dos times de marketing que usam IA acompanham métricas específicas 
 
 ## Visual
 
-`03-quinta-pilar1-carrossel.pdf` (1080×1350, 8 páginas, gerado)
+`03-quinta-pilar1-carrossel/` (slide-01.png a slide-08.png, 1080×1350; fonte: `03-quinta-pilar1-carrossel-slides.json`)
 
 ## Primeiro comentário sugerido
 

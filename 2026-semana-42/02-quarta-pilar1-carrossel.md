@@ -1,7 +1,7 @@
 # Post 2 — Quarta, 14/10, 8h–9h
 
 **Pilar:** IA aplicada ao marketing (40%)
-**Formato:** Carrossel PDF (8 slides)
+**Formato:** Carrossel (8 imagens PNG, publicar como várias imagens, não PDF)
 **Pauta banco nº:** 10 — "Como um pipeline transforma auditoria de Instagram em calendário de 30 dias automaticamente"
 
 ## Legenda (texto do post)
@@ -23,11 +23,11 @@ Nesse carrossel, como ele funciona e onde ele ainda depende de mim.
 5. **Conteúdo** — "Onde eu ainda entro" — Reviso se o tema faz sentido pro momento do cliente. O sistema sugere direção, não decide sozinho o que vai ao ar.
 6. **Conteúdo** — "O ganho real" — Etapa que levava um dia inteiro, leva menos de uma hora / Nenhum insight da auditoria se perde no caminho / O processo é igual pra qualquer cliente novo
 7. **Conteúdo** — "O que ainda falta" — O perfil pessoal ainda não tem esse pipeline fechado — hoje o calendário dele é manual. É a próxima peça que quero automatizar.
-8. **CTA** — "Cada etapa automatizada vira insumo pra próxima" / "Guarda esse carrossel se você também tá tentando conectar etapas soltas" / "Onde no seu processo um insight bom costuma se perder?"
+8. **CTA** — "Cada etapa automatizada vira insumo pra próxima" / "Comenta aqui embaixo" / "Onde no seu processo um insight bom costuma se perder?"
 
 ## Visual
 
-`02-quarta-pilar1-carrossel.pdf` (1080×1350, 8 páginas, gerado)
+`02-quarta-pilar1-carrossel/` (slide-01.png a slide-08.png, 1080×1350; fonte: `02-quarta-pilar1-carrossel-slides.json`)
 
 ## Primeiro comentário sugerido
 

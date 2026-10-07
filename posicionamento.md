@@ -21,6 +21,9 @@ Vagas-alvo: Marketing + IA/Automação, e Marketing de Conteúdo/Social.
 ## Decisões de 06/10/2026 (após auditoria do perfil)
 
 - **Posicionamento mantido** (conteúdo + IA na prática). Não migrar pra "aquisição B2B / HR Tech LATAM".
+- **Regra anti-exposição da MyDNA (07/10/2026):** o objetivo do LinkedIn é gerar autoridade pessoal, não documentar a empresa. Nos posts, **não** descrever rotina, processo, ferramentas, estrutura de time, fluxo de campanha, o produto por dentro, quem lê/compra, nem usar "na MyDNA eu faço/trabalho...". Nome da MyDNA fica no perfil. No texto, no máximo uma menção leve e genérica ("trabalho com marketing em HR tech"), e só se agregar. Escrever o aprendizado como observação de mercado ou opinião ("em e-mail pra RH, clareza vence criatividade"), não como "no meu dia a dia lá".
+- **Carrossel = várias imagens PNG**, nunca PDF (decisão de 07/10/2026). O motor gera `slide-NN.png` + `spec.json` numa pasta.
+- **CTA de carrossel e post: nunca "guarda/salva esse carrossel/post"** (ninguém salva post no LinkedIn desse jeito). Usar "Comenta aqui embaixo" ou fechar com a pergunta.
 - **Agência Logos pode ser citada pelo nome** como prova de execução (negócio próprio, gestão de Instagram de clientes, auditorias, sistemas com IA). A identidade visual continua separada (nunca `#0C0B14`/`#5B3FF8`). Nunca citar nome de cliente da Logos sem autorização.
 - **Números internos da MyDNA continuam vetados** (mesmo aproximados ou em faixa).
 - **Sem posts em espanhol** — tudo em português.
@@ -32,7 +35,7 @@ Vagas-alvo: Marketing + IA/Automação, e Marketing de Conteúdo/Social.
 |---|---|---|
 | **1. IA aplicada ao marketing** | 40% | Bastidores do ecossistema de skills (auditorias, carrossel-designer, modelagem de conteúdo, calendário), automações, prompts, o que deu certo e o que quebrou. Ângulo: não-dev que construiu isso — esse é o diferencial. |
 | **2. Conteúdo & copy** | 25% | Análise de posts/campanhas (própria ou de terceiros, sem citar cliente), antes/depois de copy, raciocínio por trás de um carrossel ou roteiro. |
-| **3. Bastidores B2B/SaaS (MyDNA)** | 20% | Aprendizados na MyDNA — HR tech, benchmarking salarial, mercado LATAM, email marketing B2B, Customer Success + marketing. Pode citar a MyDNA pelo nome. **Nunca** dados de clientes, nomes de clientes ou números internos (mesmo aproximados). |
+| **3. Marketing B2B e mercado de HR Tech** | 20% | **Autoridade, não bastidor.** Opinião e aprendizado sobre marketing B2B, HR tech, benchmarking como conceito, mercado LATAM, e-mail B2B, alinhamento marketing/atendimento. A autoridade vem da leitura de mercado e do critério, nunca de expor como a MyDNA opera. Ver "Regra anti-exposição" abaixo. |
 | **4. Carreira e aprendizado em público** | 15% | Faculdade de marketing digital, curso do Afonso Molina, erros, viradas de chave. |
 
 Tendências de mercado entram como **gancho dentro dos pilares acima**, nunca como tema solto/isolado.
@@ -77,7 +80,7 @@ Se corrigir algo, reportar de forma compacta (o que mudou). Se não houve nada a
 
 ## O que NUNCA fazer
 
-- Citar dado, resultado, cliente ou número interno da MyDNA.
+- Citar dado, resultado, cliente ou número interno da MyDNA, ou narrar a rotina interna dela (ver "Regra anti-exposição").
 - Publicar direto — o fluxo sempre passa por revisão do Rapha antes de agendar.
 - Misturar o tom/identidade visual com a Agência Logos (citar a Logos pelo nome como prova de execução é permitido; ver "Decisões de 06/10/2026").
 - Repetir tema já usado (checar `historico.md` antes de fechar a pauta).

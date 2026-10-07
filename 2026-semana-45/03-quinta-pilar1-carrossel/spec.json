@@ -1,0 +1,64 @@
+{
+  "slides": [
+    {
+      "tipo": "capa",
+      "titulo": "Nem toda tarefa de marketing merece ser automatizada primeiro",
+      "subtitulo": "O critério que uso antes de automatizar qualquer etapa do fluxo"
+    },
+    {
+      "tipo": "conteudo",
+      "titulo": "O contexto",
+      "bullets": [
+        "Construo os sistemas de automação do meu próprio fluxo de conteúdo sem vir de time técnico.",
+        "A tentação constante é automatizar tudo que se repete, só porque dá pra automatizar."
+      ]
+    },
+    {
+      "tipo": "conteudo",
+      "titulo": "O padrão de 2026",
+      "bullets": [
+        "Virou comum montar sistemas que cobrem o fluxo inteiro, da ideia à publicação, não só uma tarefa isolada.",
+        "Isso aumenta a pressão pra automatizar etapas que talvez não devessem ser automatizadas ainda."
+      ]
+    },
+    {
+      "tipo": "conteudo",
+      "titulo": "Critério 1 — repetição sem julgamento",
+      "bullets": [
+        "Automatizo primeiro a tarefa que se repete do mesmo jeito, sem decisão nova a cada vez.",
+        "Exemplo: gerar o visual a partir de um texto que já está pronto e aprovado."
+      ]
+    },
+    {
+      "tipo": "conteudo",
+      "titulo": "Critério 2 — custo do erro",
+      "bullets": [
+        "Se o erro da automação for caro de reverter, eu seguro ela até confiar mais no processo.",
+        "Publicação final é um desses casos — o custo de um erro público é alto."
+      ]
+    },
+    {
+      "tipo": "conteudo",
+      "titulo": "Critério 3 — o que eu aprendo fazendo na mão",
+      "bullets": [
+        "Tarefa que ainda me ensina algo sobre o próprio processo, eu faço manual por mais tempo de propósito.",
+        "Automatizar cedo demais trava esse aprendizado antes dele virar critério de verdade."
+      ]
+    },
+    {
+      "tipo": "conteudo",
+      "titulo": "O que eu NÃO automatizo ainda",
+      "bullets": [
+        "Aprovação final de um post antes de publicar.",
+        "Decisão de qual pauta entra na semana.",
+        "Isso continua comigo por escolha, não por limitação técnica."
+      ]
+    },
+    {
+      "tipo": "cta",
+      "chamada": "Automatizar tudo não é o objetivo.\nAutomatizar o que vale, é.",
+      "acao": "Comenta aqui embaixo",
+      "pergunta": "Qual tarefa do seu fluxo você automatizaria primeiro — e qual nunca automatizaria?"
+    }
+  ]
+}

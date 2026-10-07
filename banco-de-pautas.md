@@ -40,15 +40,17 @@ Formato sugerido é ponto de partida, não regra rígida — pode trocar texto�
 25. Como analiso a estrutura de um carrossel de outro criador sem copiar o conteúdo dele — *texto*
 26. [USADA — semana 45] Um erro comum de copy que só percebi depois de revisar dezenas de posts seguidos — *texto*
 
-## Pilar 3 — Bastidores B2B/SaaS · MyDNA (20%)
+## Pilar 3 — Marketing B2B e mercado de HR Tech (20%)
 
-27. [USADA — semana 40] O que aprendi sobre email marketing B2B trabalhando com benchmarking salarial na MyDNA — *texto*
-28. [USADA — semana 41] Bastidores de Customer Success e Marketing trabalhando juntos — o que muda na forma de escrever — *carrossel*
-29. [USADA — semana 46] O que descobri sobre o mercado de RH tech em LATAM trabalhando na MyDNA — *texto*
-30. Como decido o que testar numa campanha de email B2B antes de rodar pra base inteira — *texto*
+> Regra (07/10/2026): pauta de AUTORIDADE, não de bastidor. Opinião e aprendizado sobre marketing B2B, HR tech e LATAM. Nunca descrever rotina, processo, ferramenta, time ou produto por dentro da MyDNA.
+
+27. [USADA — semana 40] O que muda no e-mail marketing B2B quando quem lê decide política de RH — *texto*
+28. [USADA — semana 41] Marketing e atendimento precisam falar a mesma língua: o que muda na forma de escrever — *carrossel*
+29. [USADA — semana 46] O que o mercado de RH tech na LATAM mostra sobre dado e confiança — *texto*
+30. Como decidir o que testar num e-mail B2B antes de disparar pra base inteira (o critério, não o passo a passo interno) — *texto*
 31. [USADA — semana 43] A diferença entre marketing B2C e B2B que só entendi na prática, não na teoria — *carrossel*
-32. O que aprendi sobre precisão de dado trabalhando com benchmarking salarial — *texto*
-33. Como CS e marketing conversam de verdade quando trabalham perto, sem virar relatório burocrático — *texto*
+32. Por que precisão de dado vale mais que volume em qualquer produto de benchmarking — *texto*
+33. O sinal de que marketing e atendimento estão realmente alinhados (e o de que só fingem) — *texto*
 34. [USADA — semana 44] Um aprendizado sobre o mercado LATAM que mudou como penso conteúdo B2B — *carrossel*
 
 ## Pilar 4 — Carreira e aprendizado em público (15%)
