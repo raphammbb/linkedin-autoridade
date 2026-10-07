@@ -89,7 +89,9 @@ def render_post_texto(spec: dict, out_png: Path) -> Path:
     h = spec.get("h", DEFAULT_H)
     env = get_env()
     template = env.get_template("post_texto.html.j2")
-    html = template.render(w=w, h=h, **spec)
+    ctx = dict(spec)
+    ctx.update(w=w, h=h)
+    html = template.render(**ctx)
 
     with tempfile.TemporaryDirectory() as tmp:
         html_path = Path(tmp) / "post.html"

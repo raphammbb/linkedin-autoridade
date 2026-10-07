@@ -1,0 +1,69 @@
+<!doctype html><html lang="pt-BR"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>A automação funcionou. Eu não postei nada por quase duas semanas.</title><style>
+:root{--bg:#111318;--card:#1b1e26;--tx:#F5F5F2;--mut:#9aa0ac;--ac:#3FA9F5}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--tx);font-family:Inter,system-ui,sans-serif;line-height:1.55}
+main{max-width:640px;margin:0 auto;padding:20px 16px 80px}
+h1{font-size:22px;line-height:1.25;margin:8px 0 4px}
+.meta{color:var(--mut);font-size:14px;margin-bottom:18px}
+.box{background:var(--card);border-radius:14px;padding:18px;white-space:pre-wrap;font-size:16px}
+.btn{display:block;width:100%;text-align:center;padding:16px;margin-top:12px;border-radius:12px;
+ font-size:17px;font-weight:600;text-decoration:none;border:0;cursor:pointer}
+.p{background:var(--ac);color:#06121c}.s{background:var(--card);color:var(--tx);border:1px solid #2c303b}
+img{width:100%;border-radius:12px;margin-top:14px}
+h2{font-size:15px;color:var(--mut);margin:26px 0 8px;text-transform:uppercase;letter-spacing:.05em}
+a.row{display:block;background:var(--card);border-radius:12px;padding:14px;margin-bottom:10px;color:var(--tx);text-decoration:none}
+a.row small{display:block;color:var(--mut);margin-top:2px}
+.hoje{outline:2px solid var(--ac)}
+
+.art h2{color:var(--tx);font-size:20px;text-transform:none;letter-spacing:0;margin:22px 0 8px}
+.art p,.art li{font-size:17px}.art ul,.art ol{padding-left:22px}</style></head><body><main>
+<a href="../index.html" style="color:var(--mut)">← artigos</a>
+<h1>A automação funcionou. Eu não postei nada por quase duas semanas.</h1><div class="meta">Quarta, 07/10, 12h</div>
+<h2>1. Abra o editor de artigos</h2>
+<a class="btn s" href="https://www.linkedin.com/article/new/" target="_blank" rel="noopener">Abrir editor de artigos do LinkedIn</a>
+<h2>2. Título e subtítulo</h2>
+<div class="box" id="tit">A automação funcionou. Eu não postei nada por quase duas semanas.</div><button class="btn p" data-alvo="tit" data-rico="0">Copiar título</button>
+<h2>3. Capa</h2><img src="2026-10-07-automacao-funcionou-eu-nao-postei-capa.png" alt="capa"><a class="btn s" href="2026-10-07-automacao-funcionou-eu-nao-postei-capa.png" download>Baixar capa</a>
+<h2>4. Texto do artigo (cola com a formatação)</h2>
+<div class="box art" id="art" style="white-space:normal"><p>Montei um sistema que, toda segunda de manhã, pesquisa um tema, escreve os rascunhos e gera as imagens do meu LinkedIn. Ele funcionou exatamente como desenhei.</p>
+<p>Em quase duas semanas, eu não publiquei nada.</p>
+<p>Não sou desenvolvedor. Construí isso com IA, aprendendo no caminho, e é por isso que essa falha me interessa tanto: ela não foi técnica.</p>
+<h2>O que o sistema faz</h2>
+<p>Toda segunda, ele pesquisa novidades de marketing e IA para usar de gancho, escolhe os temas da semana, escreve os textos seguindo as regras de posicionamento que defini, gera as imagens, salva tudo e me manda uma notificação no celular.</p>
+<p>Quando olhei o resultado, havia mais de vinte rascunhos prontos. Nenhum publicado.</p>
+<h2>Onde quebrou</h2>
+<p>A notificação dizia para eu revisar o material em um repositório do GitHub. Eu, a pessoa para quem o sistema existe, não sabia que precisava abrir uma pasta de código para pegar um texto.</p>
+<p>O sistema estava correto e era inútil. Ele fazia o trabalho da máquina muito bem e deixava o trabalho da pessoa em um lugar onde a pessoa não vive.</p>
+<h2>Por que a gente erra nisso</h2>
+<p>Quem constrói pensa no sistema. Quem usa pensa no dia.</p>
+<p>Eu desenhei o fluxo do ponto de vista de quem monta: entrada, processamento, saída salva. Para mim, &quot;saída salva em um repositório&quot; parecia o fim. Para quem precisa agir, o fim é &quot;eu sei o que fazer, agora, sem procurar nada&quot;.</p>
+<p>Automatizamos o que a máquina faz e esquecemos o último metro, o momento em que um humano precisa pegar o resultado e agir.</p>
+<h2>O que mudei</h2>
+<p>Troquei o aviso por um lembrete no Google Calendar, no horário em que eu preciso agir, com um link direto para uma página simples. Ela mostra o texto pronto para copiar e a imagem pronta para baixar. Sem pasta, sem repositório, sem procurar.</p>
+<p>O resultado do sistema não mudou. O que mudou foi o ponto onde ele encontra a pessoa.</p>
+<h2>O que continuo fazendo na mão</h2>
+<p>Aprovar e publicar. São dois motivos.</p>
+<p>O primeiro é técnico: testei automatizar a publicação no LinkedIn e o botão de imagem não aceita um envio automático de arquivo. O segundo é de critério: mesmo que aceitasse, eu quero ler antes de qualquer coisa sair com o meu nome.</p>
+<p>Automatizar o que é repetitivo e reversível faz sentido. O que é público e difícil de desfazer continua passando por uma pessoa.</p>
+<h2>Três perguntas antes de automatizar qualquer coisa</h2>
+<ol><li>Onde a pessoa que recebe o resultado já está durante o dia? A resposta costuma ser e-mail, calendário ou WhatsApp, e raramente é um painel novo.</li><li>O que acontece se a automação funcionar e a pessoa não agir? Se a resposta for &quot;nada&quot;, falta um lembrete no desenho.</li><li>Quanto custa errar em público? Quanto maior o custo, mais perto de um humano a decisão final deve ficar.</li></ol>
+<p>Um sistema que gera o trabalho todo e depende de alguém lembrar de ir buscá-lo ainda é um sistema pela metade.</p>
+<p>Qual automação sua funcionou perfeitamente na parte técnica e, mesmo assim, não mudou nada no seu dia a dia?</p></div>
+<button class="btn p" data-alvo="art" data-rico="1">Copiar artigo com formatação</button>
+<h2>5. Depois de publicar: aviso curto no feed</h2>
+<div class="box" id="avi"><p>Montei um sistema que escreve meus rascunhos do LinkedIn toda segunda. Em quase duas semanas, não publiquei nenhum.</p><p>A falha não estava na IA. Estava no aviso: ele me mandava abrir um repositório de código para pegar o texto.</p><p>Escrevi no artigo o que mudei e as 3 perguntas que faço antes de automatizar qualquer coisa.</p><p>#automacao #iaaplicada #marketingdigital</p></div><button class="btn p" data-alvo="avi" data-rico="0">Copiar aviso</button>
+<div class="meta" style="margin-top:10px">Publique o aviso e cole o link do artigo no primeiro comentário. Link no corpo do post reduz o alcance.</div>
+<h2>6. Primeira hora</h2>
+<div class="meta">Responda cada comentário até 1 hora depois de publicar e comente em 2 ou 3 posts de outras pessoas. Isso pesa mais no alcance que o texto.</div>
+
+</main><script>
+document.querySelectorAll('button[data-alvo]').forEach(function(b){b.onclick=async function(){
+ var el=document.getElementById(b.dataset.alvo),rico=b.dataset.rico==='1',ok=false;
+ var r=document.createRange();r.selectNodeContents(el);var s=getSelection();s.removeAllRanges();s.addRange(r);
+ try{ok=document.execCommand('copy')}catch(x){}
+ if(!ok&&!rico){try{await navigator.clipboard.writeText(el.innerText);ok=true}catch(x){}}
+ s.removeAllRanges();var o=b.textContent;b.textContent=ok?'Copiado ✓':'Não copiou, selecione e copie';
+ setTimeout(function(){b.textContent=o},2200)}});
+</script></body></html>
