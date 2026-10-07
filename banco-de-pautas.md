@@ -10,36 +10,38 @@ Formato sugerido é ponto de partida, não regra rígida — pode trocar texto�
 
 ---
 
+> **Revisão de 07/10/2026:** o banco original era quase todo "como montei meu sistema / meu processo / o que quebrou". O Rapha reprovou esse enfoque: artigo de autoridade dá ponto de vista e método ao leitor, sem expor a rotina, os erros ou o sistema dele. Pautas marcadas [SUSPENSA] não devem ser usadas. Só use pautas sem marca, ou as de "Propostas aprovadas" no fim deste arquivo.
+
 ## Pilar 1 — IA aplicada ao marketing (40%)
 
 1. [USADA — semana 39] Como montei um sistema de skills que gera auditoria de Instagram sozinho, sem eu saber programar — *carrossel*
 2. [USADA — semana 44] O processo que uso pra decompor qualquer post ou reels em estrutura replicável antes de criar algo parecido — *texto*
-3. Bastidores: como decido o estilo visual de um carrossel antes de gerar qualquer PNG — *carrossel*
+3. [SUSPENSA 07/10: narra o sistema ou processo do Rapha] Bastidores: como decido o estilo visual de um carrossel antes de gerar qualquer PNG — *carrossel*
 4. [USADA — semana 40] O dia em que a automação quebrou no meio do fluxo e o que aprendi resolvendo sem saber código — *texto*
-5. Como gero PDF de proposta comercial em segundos sem abrir Word nem imprimir manualmente — *texto*
+5. [SUSPENSA 07/10: narra o sistema ou processo do Rapha] Como gero PDF de proposta comercial em segundos sem abrir Word nem imprimir manualmente — *texto*
 6. [USADA — semana 41] Por que decidi não automatizar 100% da aprovação de post — onde o humano ainda precisa entrar — *texto*
-7. O sistema que decide sozinho quando me avisar que um post está pronto pra revisão — *carrossel*
+7. [SUSPENSA 07/10: narra o sistema ou processo do Rapha] O sistema que decide sozinho quando me avisar que um post está pronto pra revisão — *carrossel*
 8. [USADA — semana 46] Como uso IA pra gerar dezenas de ideias de conteúdo e filtrar por nota antes de escrever qualquer coisa — *carrossel*
 9. [USADA — semana 42] A diferença entre pedir "boas ideias" pra uma IA e pedir "gere muitas, eu filtro" — o que mudou no resultado — *texto*
 10. [USADA — semana 42] Como um pipeline transforma uma auditoria de Instagram em calendário de 30 dias automaticamente — *carrossel*
-11. O vício de escrita que uma IA repetia sem eu perceber até eu criar um filtro pra pegar isso — *texto*
+11. [SUSPENSA 07/10: narra o sistema ou processo do Rapha] O vício de escrita que uma IA repetia sem eu perceber até eu criar um filtro pra pegar isso — *texto*
 12. [USADA — semana 45] Como decido qual tarefa automatizar primeiro num fluxo de marketing — o que vale a pena e o que não vale — *carrossel*
 13. [USADA — semana 45] Por que abandonei a automação de publicar direto no Instagram via navegador — e o que fiz no lugar — *texto*
-14. Como testo uma hipótese de conteúdo com dado real antes de pensar em escalar — *carrossel*
-15. Bastidores de como decido entre gerar imagem por IA generativa ou usar só design tipográfico num post — *texto*
-16. O sistema que uso pra nunca repetir tema de conteúdo entre contas diferentes — *texto*
+14. [SUSPENSA 07/10: narra o sistema ou processo do Rapha] Como testo uma hipótese de conteúdo com dado real antes de pensar em escalar — *carrossel*
+15. [SUSPENSA 07/10: narra o sistema ou processo do Rapha] Bastidores de como decido entre gerar imagem por IA generativa ou usar só design tipográfico num post — *texto*
+16. [SUSPENSA 07/10: narra o sistema ou processo do Rapha] O sistema que uso pra nunca repetir tema de conteúdo entre contas diferentes — *texto*
 
 ## Pilar 2 — Conteúdo & copy (25%)
 
 17. [USADA — semana 40] Antes/depois: como reescrevi um título que caía numa fórmula batida de copy — *carrossel*
 18. [USADA — semana 44] O que aprendi analisando por que um carrossel performou e outro não, com o mesmo tema — *texto*
-19. Como decido entre bullets e texto corrido dentro de um slide — *carrossel*
+19. [SUSPENSA 07/10: narra o sistema ou processo do Rapha] Como decido entre bullets e texto corrido dentro de um slide — *carrossel*
 20. [USADA — semana 42] A regra que uso pra saber quando um post precisa de imagem e quando o texto sozinho já resolve — *texto*
 21. [USADA — semana 43] Por que corto travessão em excesso de qualquer copy que passa pela minha mão — inclusive a gerada por IA — *texto*
 22. [USADA — semana 39] Como estruturo um gancho pra ele funcionar mesmo antes do "ver mais" — *texto*
 23. A diferença entre CTA genérico e CTA que conversa com a dor real do post — *carrossel*
-24. O checklist que aplico antes de aprovar qualquer copy, minha ou gerada por IA — *carrossel*
-25. Como analiso a estrutura de um carrossel de outro criador sem copiar o conteúdo dele — *texto*
+24. [SUSPENSA 07/10: narra o sistema ou processo do Rapha] O checklist que aplico antes de aprovar qualquer copy, minha ou gerada por IA — *carrossel*
+25. [SUSPENSA 07/10: narra o sistema ou processo do Rapha] Como analiso a estrutura de um carrossel de outro criador sem copiar o conteúdo dele — *texto*
 26. [USADA — semana 45] Um erro comum de copy que só percebi depois de revisar dezenas de posts seguidos — *texto*
 
 ## Pilar 3 — Marketing B2B e mercado de HR Tech (20%)
@@ -59,9 +61,9 @@ Formato sugerido é ponto de partida, não regra rígida — pode trocar texto�
 
 35. [USADA — semana 41] O que o curso do Afonso Molina mudou na forma como penso conteúdo — *texto*
 36. [USADA — semana 46] Um erro que cometi no início e o que eu faria diferente hoje — *texto*
-37. Como a faculdade de marketing digital se conecta (ou não) com o que faço no dia a dia — *carrossel*
+37. [SUSPENSA 07/10: narra o sistema ou processo do Rapha] Como a faculdade de marketing digital se conecta (ou não) com o que faço no dia a dia — *carrossel*
 38. [USADA — semana 39] A virada de chave que fez eu parar de esconder que tenho 2 anos de experiência — *texto*
-39. O que aprendi construindo um sistema sozinho, sem time técnico, errando bastante pelo caminho — *carrossel*
+39. [SUSPENSA 07/10: narra o sistema ou processo do Rapha] O que aprendi construindo um sistema sozinho, sem time técnico, errando bastante pelo caminho — *carrossel*
 40. [USADA — semana 43] Onde eu quero chegar profissionalmente e por que decidi documentar o processo em público — *texto*
 
 ---
@@ -69,3 +71,20 @@ Formato sugerido é ponto de partida, não regra rígida — pode trocar texto�
 ## Reposição do banco
 
 Quando sobrarem menos de 10 pautas não usadas, gerar mais 15-20 na mesma proporção antes de fechar o lote da semana — nunca deixar o banco secar no meio de uma execução.
+
+## Propostas (aguardando OK do Rapha; só usar depois de "[APROVADA]")
+
+Todas em formato de ponto de vista ou método, com exemplos hipotéticos rotulados ("imagine..."), sem narrar o Rapha.
+
+P1. Como briefar uma IA para escrever como a sua marca e não como a média da internet (contexto, público, restrições, exemplo)
+P2. O que perguntar a um profissional de marketing que diz "usar IA": 6 perguntas que separam quem usa de quem só cita (pensado para quem contrata)
+P3. IA em pesquisa de mercado: onde ajuda, onde inventa e como verificar antes de usar um dado
+P4. Qual tarefa de marketing automatizar primeiro: dois critérios (repetição e custo do erro)
+P5. Cinco aberturas de texto que perdem o leitor antes do "ver mais" e como reescrever cada uma
+P6. Por que o conteúdo B2B pede mais precisão e menos criatividade (e onde ainda cabe criatividade)
+P7. CTA que pede reação versus CTA que abre conversa: o que muda no resultado
+P8. Os três vícios mais comuns de texto gerado por IA e como revisar cada um
+P9. Marketing e atendimento: o sinal de que o alinhamento é real e o de que só aparece no slide
+P10. Benchmarking salarial como conceito: por que dado desatualizado é pior que nenhum dado (visão de mercado, sem dado da MyDNA)
+P11. Como modelar um conteúdo de sucesso sem copiá-lo: decompor gancho, estrutura e promessa
+P12. O que muda em marketing de conteúdo quando todo mundo tem a mesma IA

@@ -40,6 +40,23 @@ Vagas-alvo: Marketing + IA/Automação, e Marketing de Conteúdo/Social.
 
 Tendências de mercado entram como **gancho dentro dos pilares acima**, nunca como tema solto/isolado.
 
+## Como é um artigo bom (revisado em 07/10/2026, após reprovação de dois rascunhos)
+
+O artigo existe pra mostrar **julgamento e método** a quem contrata ou lidera marketing. Ele dá ao leitor algo que ele aplica na segunda-feira, e funciona mesmo que o leitor nunca tenha ouvido falar do Rapha.
+
+**Faz:**
+- Defende um ponto de vista claro ou entrega um método com passos que o leitor reconhece como útil.
+- Usa exemplos hipotéticos rotulados ("imagine um texto que diz...") pra concretizar. Nunca apresenta exemplo inventado como caso real.
+- Primeira pessoa só como opinião ("na minha visão") ou prática genérica ("uso IA todos os dias"), sem contar episódios.
+- Fecha com uma pergunta específica pra quem lê.
+
+**Nunca faz:**
+- Narrar falha, erro, confissão, bastidor, rotina, ferramenta, automação ou "como meu sistema funciona". O sistema de conteúdo do Rapha, os erros dele e a rotina dele não são assunto.
+- Justificar ou explicar as próprias decisões do Rapha ("por que eu faço assim").
+- Soar como diário de quem aprende em público. Não é o posicionamento dele.
+
+**Teste final antes de entregar:** "Um gestor de marketing aprenderia algo útil lendo isso mesmo sem saber quem escreveu?" Se a resposta for não, refazer.
+
 ## Ritmo e formato (revisado em 07/10/2026)
 
 - **1 artigo por semana, publicado na quarta-feira ao meio-dia** (artigo nativo do LinkedIn). Decisão do Rapha: sem carrossel e sem posts diários, pra não parecer que perde tempo produzindo post.

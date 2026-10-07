@@ -19,6 +19,8 @@ Fonte única para qualquer afirmação em PRIMEIRA PESSOA sobre o que o Rapha fe
 - Um app de posts (PostStudio) instalável no iPad.
 
 ## Acontecimentos reais (datas)
+
+**NÃO usar como tema de artigo.** Servem só pra conferir um fato quando ele for citado de passagem. Falhas, bastidores e a rotina do próprio Rapha não são assunto (reprovado em 07/10/2026).
 - 22 a 23/09/2026: testou automatizar a publicação no LinkedIn pelo navegador. O botão de imagem do LinkedIn não aceita envio automático de arquivo, então a publicação ficou manual.
 - 23/09/2026: colocou na nuvem uma rotina que, toda segunda de manhã, pesquisa tema, escreve rascunhos e gera imagens do LinkedIn pessoal dele.
 - 06/10/2026: percebeu que a rotina funcionava mas ele não tinha publicado nada em quase duas semanas, com mais de vinte rascunhos parados, porque o aviso mandava abrir um repositório do GitHub.
