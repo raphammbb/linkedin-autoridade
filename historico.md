@@ -12,7 +12,7 @@ Atualizado a cada lote gerado pela skill `linkedin-autoridade-semanal`.
 | 30/09/2026 | Quarta | Conteúdo & copy (2) | Carrossel PDF | Antes/depois de um título reescrito (17) | rascunho |
 | 01/10/2026 | Quinta | Bastidores MyDNA (3) | Texto + imagem | Email marketing B2B na MyDNA (27) | rascunho |
 | 06/10/2026 | Terça | IA aplicada ao marketing (1) | Texto + imagem | Por que não automatizei 100% da aprovação (6) | rascunho |
-| 07/10/2026 | Quarta | Bastidores MyDNA (3) | Carrossel PDF | CS e marketing trabalhando juntos (28) | rascunho |
+| 07/10/2026 | Quarta | IA aplicada ao marketing (1) | Artigo | Quatro decisões de conteúdo que a IA não toma por você | rascunho (publicar 12h) |
 | 08/10/2026 | Quinta | Carreira e aprendizado (4) | Texto + imagem | O que o curso do Afonso Molina mudou (35) | rascunho |
 | 13/10/2026 | Terça | IA aplicada ao marketing (1) | Texto + imagem | "Gere 50, eu escolho" (9) | rascunho |
 | 14/10/2026 | Quarta | IA aplicada ao marketing (1) | Carrossel PDF | Pipeline auditoria → calendário 30 dias (10) | rascunho |
@@ -29,4 +29,4 @@ Atualizado a cada lote gerado pela skill `linkedin-autoridade-semanal`.
 | 10/11/2026 | Terça | Bastidores MyDNA (3) | Texto + imagem | O que descobri sobre o mercado de RH tech em LATAM (29) | rascunho |
 | 11/11/2026 | Quarta | Carreira e aprendizado (4) | Texto + imagem | Um erro que cometi no início, o que faria diferente hoje (36) | rascunho |
 | 12/11/2026 | Quinta | IA aplicada ao marketing (1) | Carrossel PDF | Gerar dezenas de ideias com IA e filtrar por nota (8) | rascunho |
-| 07/10/2026 | Quarta | IA aplicada ao marketing (1) | Artigo | A automação funcionou. Eu não postei nada por quase duas semanas. | rascunho (publicar 12h) |
+| 07/10/2026 | Quarta | IA aplicada ao marketing (1) | Artigo | Quatro decisões de conteúdo que a IA não toma por você | rascunho (publicar 12h) |
