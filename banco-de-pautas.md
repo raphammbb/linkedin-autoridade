@@ -39,7 +39,7 @@ Formato sugerido é ponto de partida, não regra rígida — pode trocar texto�
 20. [USADA — semana 42] A regra que uso pra saber quando um post precisa de imagem e quando o texto sozinho já resolve — *texto*
 21. [USADA — semana 43] Por que corto travessão em excesso de qualquer copy que passa pela minha mão — inclusive a gerada por IA — *texto*
 22. [USADA — semana 39] Como estruturo um gancho pra ele funcionar mesmo antes do "ver mais" — *texto*
-23. A diferença entre CTA genérico e CTA que conversa com a dor real do post — *carrossel*
+23. [USADA — artigo 14/10] A diferença entre CTA genérico e CTA que conversa com a dor real do post — *carrossel*
 24. [SUSPENSA 07/10: narra o sistema ou processo do Rapha] O checklist que aplico antes de aprovar qualquer copy, minha ou gerada por IA — *carrossel*
 25. [SUSPENSA 07/10: narra o sistema ou processo do Rapha] Como analiso a estrutura de um carrossel de outro criador sem copiar o conteúdo dele — *texto*
 26. [USADA — semana 45] Um erro comum de copy que só percebi depois de revisar dezenas de posts seguidos — *texto*
