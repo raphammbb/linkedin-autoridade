@@ -53,7 +53,7 @@ Formato sugerido é ponto de partida, não regra rígida — pode trocar texto�
 29. [USADA — semana 46] O que o mercado de RH tech na LATAM mostra sobre dado e confiança — *texto*
 30. Como decidir o que testar num e-mail B2B antes de disparar pra base inteira (o critério, não o passo a passo interno) — *texto*
 31. [USADA — semana 43] A diferença entre marketing B2C e B2B que só entendi na prática, não na teoria — *carrossel*
-32. Por que precisão de dado vale mais que volume em qualquer produto de benchmarking — *texto*
+32. [USADA — artigo 21/10] Por que precisão de dado vale mais que volume em qualquer produto de benchmarking — *texto*
 33. O sinal de que marketing e atendimento estão realmente alinhados (e o de que só fingem) — *texto*
 34. [USADA — semana 44] Um aprendizado sobre o mercado LATAM que mudou como penso conteúdo B2B — *carrossel*
 

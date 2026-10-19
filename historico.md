@@ -31,3 +31,4 @@ Atualizado a cada lote gerado pela skill `linkedin-autoridade-semanal`.
 | 12/11/2026 | Quinta | IA aplicada ao marketing (1) | Carrossel PDF | Gerar dezenas de ideias com IA e filtrar por nota (8) | rascunho |
 | 07/10/2026 | Quarta | IA aplicada ao marketing (1) | Artigo | Quatro decisões de conteúdo que a IA não toma por você | rascunho (publicar 12h) |
 | 14/10/2026 | Quarta | Conteúdo & copy (2) | Artigo | CTA genérico vs. CTA que conversa com a dor real do post (23) | rascunho (publicar 12h) |
+| 21/10/2026 | Quarta | Marketing B2B e HR Tech (3) | Artigo | Precisão vale mais que volume num benchmarking de salário (32) | rascunho (publicar 12h) |
