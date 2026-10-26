@@ -30,6 +30,7 @@ Formato sugerido é ponto de partida, não regra rígida — pode trocar texto�
 14. [SUSPENSA 07/10: narra o sistema ou processo do Rapha] Como testo uma hipótese de conteúdo com dado real antes de pensar em escalar — *carrossel*
 15. [SUSPENSA 07/10: narra o sistema ou processo do Rapha] Bastidores de como decido entre gerar imagem por IA generativa ou usar só design tipográfico num post — *texto*
 16. [SUSPENSA 07/10: narra o sistema ou processo do Rapha] O sistema que uso pra nunca repetir tema de conteúdo entre contas diferentes — *texto*
+41. [USADA — artigo 28/10] Como briefar uma IA para escrever como a marca e não como a média da internet (a partir da proposta P1) — *texto*
 
 ## Pilar 2 — Conteúdo & copy (25%)
 
@@ -76,7 +77,7 @@ Quando sobrarem menos de 10 pautas não usadas, gerar mais 15-20 na mesma propor
 
 Todas em formato de ponto de vista ou método, com exemplos hipotéticos rotulados ("imagine..."), sem narrar o Rapha.
 
-P1. Como briefar uma IA para escrever como a sua marca e não como a média da internet (contexto, público, restrições, exemplo)
+P1. [INCORPORADA — virou item 41, artigo 28/10] Como briefar uma IA para escrever como a sua marca e não como a média da internet (contexto, público, restrições, exemplo)
 P2. O que perguntar a um profissional de marketing que diz "usar IA": 6 perguntas que separam quem usa de quem só cita (pensado para quem contrata)
 P3. IA em pesquisa de mercado: onde ajuda, onde inventa e como verificar antes de usar um dado
 P4. Qual tarefa de marketing automatizar primeiro: dois critérios (repetição e custo do erro)

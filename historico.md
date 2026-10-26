@@ -32,3 +32,4 @@ Atualizado a cada lote gerado pela skill `linkedin-autoridade-semanal`.
 | 07/10/2026 | Quarta | IA aplicada ao marketing (1) | Artigo | Quatro decisões de conteúdo que a IA não toma por você | rascunho (publicar 12h) |
 | 14/10/2026 | Quarta | Conteúdo & copy (2) | Artigo | CTA genérico vs. CTA que conversa com a dor real do post (23) | rascunho (publicar 12h) |
 | 21/10/2026 | Quarta | Marketing B2B e HR Tech (3) | Artigo | Precisão vale mais que volume num benchmarking de salário (32) | rascunho (publicar 12h) |
+| 28/10/2026 | Quarta | IA aplicada ao marketing (1) | Artigo | O briefing que ensina a IA a escrever como a marca, não como a internet (41) | rascunho (publicar 12h) |
