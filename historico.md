@@ -33,3 +33,4 @@ Atualizado a cada lote gerado pela skill `linkedin-autoridade-semanal`.
 | 14/10/2026 | Quarta | Conteúdo & copy (2) | Artigo | CTA genérico vs. CTA que conversa com a dor real do post (23) | rascunho (publicar 12h) |
 | 21/10/2026 | Quarta | Marketing B2B e HR Tech (3) | Artigo | Precisão vale mais que volume num benchmarking de salário (32) | rascunho (publicar 12h) |
 | 28/10/2026 | Quarta | IA aplicada ao marketing (1) | Artigo | O briefing que ensina a IA a escrever como a marca, não como a internet (41) | rascunho (publicar 12h) |
+| 04/11/2026 | Quarta | Carreira e aprendizado (4) | Artigo | Como avaliar talento de marketing sem olhar só pro tempo de experiência (42) | rascunho (publicar 12h) |

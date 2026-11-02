@@ -66,6 +66,7 @@ Formato sugerido é ponto de partida, não regra rígida — pode trocar texto�
 38. [USADA — semana 39] A virada de chave que fez eu parar de esconder que tenho 2 anos de experiência — *texto*
 39. [SUSPENSA 07/10: narra o sistema ou processo do Rapha] O que aprendi construindo um sistema sozinho, sem time técnico, errando bastante pelo caminho — *carrossel*
 40. [USADA — semana 43] Onde eu quero chegar profissionalmente e por que decidi documentar o processo em público — *texto*
+42. [USADA — artigo 04/11] Como avaliar talento de marketing sem olhar só pro tempo de experiência: o que pesquisas de 2026 (Michael Page, Marketing Week, LinkedIn) mostram sobre julgamento prático valendo mais que currículo longo — *texto*
 
 ---
 
