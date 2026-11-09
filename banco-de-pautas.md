@@ -31,6 +31,13 @@ Formato sugerido é ponto de partida, não regra rígida — pode trocar texto�
 15. [SUSPENSA 07/10: narra o sistema ou processo do Rapha] Bastidores de como decido entre gerar imagem por IA generativa ou usar só design tipográfico num post — *texto*
 16. [SUSPENSA 07/10: narra o sistema ou processo do Rapha] O sistema que uso pra nunca repetir tema de conteúdo entre contas diferentes — *texto*
 41. [USADA — artigo 28/10] Como briefar uma IA para escrever como a marca e não como a média da internet (a partir da proposta P1) — *texto*
+44. Três perguntas que separam um prompt genérico de um prompt que carrega critério de negócio — *texto*
+45. O erro mais comum ao pedir pra uma IA "escrever como a marca": falta de restrição, não falta de exemplo — *texto*
+46. Por que mais contexto num prompt nem sempre melhora a resposta, e onde essa regra vira armadilha — *texto*
+47. Como separar a tarefa que uma IA executa bem da tarefa que só parece simples mas exige julgamento humano — *carrossel*
+48. O que checar antes de confiar num dado trazido por IA numa pesquisa de mercado — *texto*
+49. Por que times de marketing que usam a mesma IA ainda produzem resultado muito diferente — *texto*
+50. O critério que decide entre revisar uma resposta de IA linha por linha ou descartar e pedir de novo — *carrossel*
 
 ## Pilar 2 — Conteúdo & copy (25%)
 
@@ -44,6 +51,11 @@ Formato sugerido é ponto de partida, não regra rígida — pode trocar texto�
 24. [SUSPENSA 07/10: narra o sistema ou processo do Rapha] O checklist que aplico antes de aprovar qualquer copy, minha ou gerada por IA — *carrossel*
 25. [SUSPENSA 07/10: narra o sistema ou processo do Rapha] Como analiso a estrutura de um carrossel de outro criador sem copiar o conteúdo dele — *texto*
 26. [USADA — semana 45] Um erro comum de copy que só percebi depois de revisar dezenas de posts seguidos — *texto*
+43. [USADA — artigo 11/11] O que separa um texto com IA que tem voz própria de um texto genérico bem escrito: três perguntas de teste antes de publicar — *texto*
+51. O teste de uma frase: como saber se uma abertura de texto prende ou deixa o leitor ir embora — *texto*
+52. Por que corrigir gramática não resolve um texto sem argumento: o critério pra revisar o que importa primeiro — *texto*
+53. A diferença entre um CTA que pede atenção e um CTA que pede uma decisão — *carrossel*
+54. Como ler a métrica de um post pra saber se o problema foi o gancho ou foi a promessa — *texto*
 
 ## Pilar 3 — Marketing B2B e mercado de HR Tech (20%)
 
@@ -57,6 +69,9 @@ Formato sugerido é ponto de partida, não regra rígida — pode trocar texto�
 32. [USADA — artigo 21/10] Por que precisão de dado vale mais que volume em qualquer produto de benchmarking — *texto*
 33. O sinal de que marketing e atendimento estão realmente alinhados (e o de que só fingem) — *texto*
 34. [USADA — semana 44] Um aprendizado sobre o mercado LATAM que mudou como penso conteúdo B2B — *carrossel*
+55. O que decide se um case B2B convence: o número isolado ou o contexto em volta dele — *texto*
+56. Marketing e vendas medindo coisas diferentes: o sintoma mais comum e como ele aparece numa reunião — *texto*
+57. Por que o ciclo de decisão mais longo do B2B pede outro tipo de prova social, não menos prova — *carrossel*
 
 ## Pilar 4 — Carreira e aprendizado em público (15%)
 
@@ -67,6 +82,8 @@ Formato sugerido é ponto de partida, não regra rígida — pode trocar texto�
 39. [SUSPENSA 07/10: narra o sistema ou processo do Rapha] O que aprendi construindo um sistema sozinho, sem time técnico, errando bastante pelo caminho — *carrossel*
 40. [USADA — semana 43] Onde eu quero chegar profissionalmente e por que decidi documentar o processo em público — *texto*
 42. [USADA — artigo 04/11] Como avaliar talento de marketing sem olhar só pro tempo de experiência: o que pesquisas de 2026 (Michael Page, Marketing Week, LinkedIn) mostram sobre julgamento prático valendo mais que currículo longo — *texto*
+58. A pergunta que mostra mais sobre um profissional júnior de marketing do que qualquer teste técnico — *texto*
+59. O que separa um currículo que lista ferramenta de um currículo que mostra critério de uso — *texto*
 
 ---
 
