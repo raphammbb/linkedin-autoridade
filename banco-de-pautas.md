@@ -31,7 +31,7 @@ Formato sugerido é ponto de partida, não regra rígida — pode trocar texto�
 15. [SUSPENSA 07/10: narra o sistema ou processo do Rapha] Bastidores de como decido entre gerar imagem por IA generativa ou usar só design tipográfico num post — *texto*
 16. [SUSPENSA 07/10: narra o sistema ou processo do Rapha] O sistema que uso pra nunca repetir tema de conteúdo entre contas diferentes — *texto*
 41. [USADA — artigo 28/10] Como briefar uma IA para escrever como a marca e não como a média da internet (a partir da proposta P1) — *texto*
-44. Três perguntas que separam um prompt genérico de um prompt que carrega critério de negócio — *texto*
+44. [USADA — artigo 18/11] Três perguntas que separam um prompt genérico de um prompt que carrega critério de negócio — *texto*
 45. O erro mais comum ao pedir pra uma IA "escrever como a marca": falta de restrição, não falta de exemplo — *texto*
 46. Por que mais contexto num prompt nem sempre melhora a resposta, e onde essa regra vira armadilha — *texto*
 47. Como separar a tarefa que uma IA executa bem da tarefa que só parece simples mas exige julgamento humano — *carrossel*

@@ -35,3 +35,4 @@ Atualizado a cada lote gerado pela skill `linkedin-autoridade-semanal`.
 | 28/10/2026 | Quarta | IA aplicada ao marketing (1) | Artigo | O briefing que ensina a IA a escrever como a marca, não como a internet (41) | rascunho (publicar 12h) |
 | 04/11/2026 | Quarta | Carreira e aprendizado (4) | Artigo | Como avaliar talento de marketing sem olhar só pro tempo de experiência (42) | rascunho (publicar 12h) |
 | 11/11/2026 | Quarta | Conteúdo & copy (2) | Artigo | O que decide se um texto com IA ainda tem a sua voz (43, nova) | rascunho (publicar 12h) |
+| 18/11/2026 | Quarta | IA aplicada ao marketing (1) | Artigo | Três perguntas que separam um prompt genérico de um prompt com critério de negócio (44) | rascunho (publicar 12h) |
